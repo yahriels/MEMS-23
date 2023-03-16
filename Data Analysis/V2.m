@@ -28,7 +28,7 @@ format long
 j = [1;2;3;4;5;6;7;8;9;10;11];
 
 i=1;
-k=4300/50;
+k=4300/10;
 k;
 V=zeros(k,1);
 I=zeros(k,1);
@@ -60,20 +60,12 @@ ii=i;
 
 %%
 %i=1;
-%i=431;
-%i=861;
-%i=1291;
-%i=1721;
 %i=2151;
-%i=2581;
-%i=3011;
-%i=3441;
-%i=3871;
 
 for j = 1:6
  switch j
      case 1 %First Experiment
-         k=4300/50;
+         k=4300/10;
 kk=k+i;
 V=zeros(k,1);
 I=zeros(k,1);
