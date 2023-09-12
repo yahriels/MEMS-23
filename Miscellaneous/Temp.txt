@@ -1,0 +1,19 @@
+
+Data Objects to Create: 
+- A: Stanford Neuroscience & Bioinformatics
+- B: MIT Hist, Anthro of Science, Tech, Society
+- C: Caltech Computational Sciences
+- D: Harvard Applied Mathematics
+- E: UC Berkeley Applied Science & Technology
+
+What Am I doing this year to prepare for Event "X"?
+- A
+    - Laboratory Technician in Microbiology Lab
+- B
+    - Technical Writer & Design Review (& Fulbright)
+- C
+    - Software Development & Data Science Researcher Experiences
+- D
+    - Professional experience in Physics or Mathematics heavy 
+- E
+    - Professional experience in scientific, scholarly, or technologic field
