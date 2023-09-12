@@ -39,6 +39,13 @@ What Am I doing this year to prepare for Event "X"?
     Don't be a crybaby, you are a GROWN ASS MAN NOW!
     BE LIKE CARNOT, THE WORLD AIN'T READY FOR YOU SON!
 
+{TOPIC/THEME}
+"Order and Disorder: The Forces That Drive The Universe"
+    - 3 LAWS OF THERMODYNAMICS
+            - Leibniz (notion of living force)
+        - Carnot: Reflections on the motice power of fire
+        - Clausius: Mathematician and Entropy/Reversibility
+        - Boltzmann: Applied numbers/science to calculate Disorder of System/Assembly
 
 {Storytelling Concept}
 
