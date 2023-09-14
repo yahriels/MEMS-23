@@ -1,0 +1,17 @@
+{https://www.indeed.com/career-advice/finding-a-job/mechanical-vs-aerospace-engineering}
+
+[Mech E]
+A mechanical engineer is a professional who designs or builds machines to meet human needs. 
+Mechanical engineers use creative skills to produce design plans for machines and other types of mechanical devices 
+and systems for the marketplace. Throughout the stages of production, they make sure their products are efficient and 
+effective, and they create technical plans and drawings to outline their plans for execution.
+
+[Aero E]
+An aerospace engineer is a professional who works on mechanical equipment designed to operate in space or air. 
+Examples of items they create include aircraft, missiles, satellites and spacecraft. 
+Aerospace engineers often become experts in a specific field, such as 
+    - aerodynamics, thermodynamics, celestial mechanics, guidance and control systems, 
+    - flight mechanics, propulsion and acoustics.
+There are two branches of the aerospace engineering field: aeronautical engineering and astronautical engineering. 
+Aeronautical engineering specializes in the technology, theory and practice of flights in the air; 
+while astronautical engineering focuses on spacecraft.
