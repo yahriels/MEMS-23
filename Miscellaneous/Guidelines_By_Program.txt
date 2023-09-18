@@ -9,7 +9,7 @@
     - Templates:{Use Personal Statement Template, Graduate Research Plan}
 
             #Application Steps
-    - Personal Statement:{3 pages }
+    - Personal Statement:{3 pages}
     - Graduate Research Plan:{2 Pages with references}
     - Transcripts:{From All Degree Institutions}
     - Reference Writers:{Three or more}
