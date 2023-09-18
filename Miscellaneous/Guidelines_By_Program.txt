@@ -1,0 +1,119 @@
+
+
+[NSF GRFP]
+
+            #Format Compliance 
+    - Font:{Times New Roman for all text, Cambria Math font for equations, and Symbol font for non-alphabetic characters (it is recommended that equations and symbols be inserted as an image), no smaller than 11-pt, except text that is part of an image}
+    - Spacing:{No less than single spacing (approximately 6 lines per inch)}
+    - Margins:{1" margins on all sides, no text inside 1" margins (no header, footer, or page number)}
+    - Templates:{Use Personal Statement Template, Graduate Research Plan}
+
+            #Application Steps
+    - Personal Statement:{3 pages }
+    - Graduate Research Plan:{2 Pages with references}
+    - Transcripts:{From All Degree Institutions}
+    - Reference Writers:{Three or more}
+    - Deadlines:{No extensions/exemptions No materials accepted by email}
+
+            #Statement of Grant Purpose
+    - Format:{Length is limited to a maximum of two single-spaced pages․ Longer statements will not be presented to screening committees․ Do not include any bibliographies, publications, citations, etc․, except those that will fit in the two-page limit․ Use 1-inch margins and Times New Roman 12-point font. No text should be added to margins, headers, or footers. See the host country Program Summary for translation instructions, if required Before uploading, convert all documents to PDF. At the top of the first page, please include the following information}
+    - 2nd Page:{On the second page of the Statement, enter the same information or just Last Name, Grant Purpose, Page 2}
+    - X: STATEMENT OF GRANT PURPOSE
+    - Y: Name, Host Country, Field of Study
+    - Z: Project Title as it appears on the Program Information section
+
+            #Personal Statement
+    - Format:{Length is limited to a maximum of one single-spaced page․ Longer statements will not be presented to screening committees. Use 1-inch margins and Times New Roman 12-point font. No text should be added to margins, headers, or footers. See the host country Program Summary for translation instructions, if required. Before uploading, convert all documents to PDF. At the top of the page, please include the following information:}
+    - 2nd Page:{On the second page of the Statement, enter the same information or just Last Name, Grant Purpose, Page 2}
+    - X: PERSONAL STATEMENT
+    - Y: Your Name, Host Country, Field of Study or English Teaching Assistantship
+
+[Stanford]
+            #Academic History Questions (750 chars X3)
+    - _XYZ_:{Gaps and Challenges}
+            #Statement of Purpose (two pages)
+    - _XYZ_:{Because each Home Program requires significant original research activities in fulfillment of the requirements for the PhD degree, the admissions committees are interested in obtaining as much information as possible about your previous research experiences. Those who already have such experience are in a better position to know whether they are truly interested in performing laboratory research as part of a graduate program. Please include specific information about your research experience in your Statement of Purpose. You may also use the Statement to amplify your comments about your choice of Home Program(s), and how your past experiences and current interests are related to your choice.The Statement of Purpose should not exceed two pages in length, single-spaced, and font size 12. Make sure to set your computer to Western European or other English-language settings. We cannot guarantee the ability to access your statement if it is submitted in other fonts. *}
+            #Enriching The Learning Community (500 words)
+    - _XYZ_:{Stanford University welcomes graduate applications from individuals with a broad range of experiences, interests, and backgrounds who would contribute to our community of scholars. We invite you to share the lived experiences, demonstrated values, perspectives, and/or activities that shape you as a scholar and would help you to make a distinctive contribution to Stanford University. }
+            #Describe an Interesting Biological or Biomedical Problem (1500 chars)
+    - _XYZ_:{Please describe one unsolved biological or biomedical problem that you find interesting and explain why. It does not have to be related to your significant research project or any of your prior work. Your answer is not binding.}
+            #Foundations of Graduate Studies
+    - _XYZ_:{Responses to the following questions are only expected for those applying to Biomedical Data Science and/or the Immunology Computational and Systems Track, but others may respond as well. For each of the following areas, please describe your experience, as acquired through coursework, research, or other projects, or your plans for obtaining or expanding such experience, ideally before starting your PhD.}
+    - X:{Multivariate Mathematics (including Calculus and Linear Algebra)}
+    - Y:{Probability and Statistics}
+    - Z:{Computation (including fundamentals of computer science and software engineering)}
+            #Additional Information (File-Upload)
+    - _XYZ_:{You may use this section to provide additional information that was not covered by the questions in the application. Only one file can be uploaded at a time. To add more, click Continue below, then return to this page to see the option to add another file.}
+
+
+[MIT]
+            #Employment ((maximum file size 32MB).Resume/CV)
+    - _XYZ_:{Please use your resume or Curriculum Vitae (CV) to share any key experiences that are relevant to the degree for which you are applying such as such as employment, research positions/experiences, volunteer positions, leadership, extracurricular activities, honors, awards, and/or publications, etc.}
+            #Required Materials
+    - _XYZ_:{HASTS}
+    - Statement of Objectives:{A writing sample such as a research paper or a chapter from a thesis. There are no specific parameters in terms of content, but the length should not exceed that of a chapter or article. When selecting a sample, keep in mind that admissions committee members will look at writing samples in order to evaluate applicants’ readiness to embark on graduate study. It must be uploaded in the online application as a PDF.}
+    - X:1350 words long
+    - Writing Sample:{A writing sample such as a research paper or a chapter from a thesis. There are no specific parameters in terms of content, but the length should not exceed that of a chapter or article. When selecting a sample, keep in mind that admissions committee members will look at writing samples in order to evaluate applicants’ readiness to embark on graduate study. It must be uploaded in the online application as a PDF.}
+    - Y: File Upload
+            #Reccomendations 
+    - _XYZ_:{Three Letters of Recommendation are required. An ideal recommender is someone who knows you well and can speak to your ability to succeed in a PhD program. It is recommended that at least two letters come from people who are familiar with your academic work and/or future research interests. If a recommender has difficulties using our admissions system, please ask him/her to send an email to hasts@mit.edu.}
+            #Funding
+    - _XYZ_:{Funding for admitted HASTS students includes five years of guaranteed support. This covers MIT tuition, 12 months of stipend, and 12 months of individual health insurance annually. Funding consists of a combination of fellowships (including those that students earn on their own), teaching assistantships and, occasionally, research assistantships. Students should expect to TA four subjects in years two through five in the program. A nine-month fellowship for dissertation completion, including the above tuition and insurance, if needed and if academic standing has been maintained, is available for a sixth year. Applicants are not expected to apply for external funding, but if you have applied for or been awarded external funding or a fellowship for Graduate studies, please provide the details.}
+
+
+[UC Berkeley]
+            #Statement of Purpose (File Upload)
+    - _XYZ_:{Please describe your aptitude and motivation for graduate study in your area of specialization, including your preparation for this field of study, your academic plans or research interests, and your future career goals. Please be specific about why UC Berkeley would be a good intellectual fit for you.}
+            #Personal History Statement (File Upload)
+    - _XYZ_:{Please describe how your personal background and experiences influenced your decision to pursue a graduate degree. In this section, you may also include any relevant information on the following:How you have overcome barriers to access higher education; How you have come to understand the barriers faced by others; Your academic service to advance equitable access to higher education for women, racial minorities and individuals from other groups that have been historically underrepresented in higher education; Your research focusing on underserved populations or related issues of inequality; Your leadership among such groups; The Personal History Statement should not duplicate the Statement of Purpose.}
+            #Study Emphasis/Reseach Concentration
+    - _XYZ_:{Please tell us about your research interests or concentrations within your field of study.}
+    - X:{Briefly describe your main research interest/study emphasis}
+    - Y:{Secondary research interest/study emphasis}
+            #Faculty Advisors
+    - _XYZ_:{Briefly tell us why you chose these faculty members and why you chose them in this rank order}
+            #Supporting Materials
+    - _XYZ_:{Academic and Professional History; Sampling of Relevant Work; Publications and Presentations; Honors and Awards; Website; Survey}
+
+
+
+[Fulbright-National Geographic]
+            #Program Information
+    - _XYZ_:{Field of Study, Project Title. Abstract/Summary of Proposal}
+            #Abstract/Summary of Proposal (1750 chars)
+    - _XYZ_:{Prepare an executive summary detailing the what, where, and why of your proposed project․ If you are proposing the pursuit of a graduate degree program, summarize the program and relevance to your career/education plans․ *}
+            #Host Country Engagement (1750 chars)
+    - _XYZ_:{A key purpose of the Fulbright program is to be a cultural ambassador while living abroad. How will you engage outside of the workplace to fulfill this mission? In what ways do you plan to share your culture and values in your host community? Provide specific ideas. *}
+            #Plans Upon Return To US (900 chars)
+    - _XYZ_:{Describe your career and/or educational plans after completing a Fulbright grant. *}
+            #Statement of Grant Purpose (File Upload)
+    - _XYZ_:{Before writing your Statement of Grant Purpose, review the application components relative to the type of grant for which you are applying․ In addition, review the award description for translation instructions, if required․}
+            #Personal Statement 
+    - _XYZ_:{The statement should be a 1 page narrative that provides a picture of yourself as an individual․ It should deal with your personal history, family background, influences on your intellectual development, the educational, professional, and cultural opportunities (or lack of them) to which you have been exposed, and the ways in which these experiences have affected you․ Also include your special interests and abilities, career plans, and life goals, etc․ It should not be a recording of facts already listed on the application or an elaboration of your Statement of Grant Purpose․ It is more of a biography, but specifically related to you and your aspirations relative to the specific Fulbright Program to which you have applied․}
+            #Affiliation Letter
+    - _XYZ_:{For Study/Research Applicants, affiliation with an educational institution or other sponsoring entity in the host country is required, even if the grant project is primarily or solely research or artistic activity or does not require enrollment in regular classes․ For more information on host country affiliations; Enter up to three institutions or individuals that you propose as your affiliation in the host country․ Enter the institution name, followed by adviser name, and department if appropriate․ While there is space to enter more than one affiliation, 3 affiliations are not required.}
+
+
+    [Caltech]
+            #S
+    - _XYZ_:{ }
+            #S
+    - _XYZ_:{ }
+            #S
+    - _XYZ_:{ }
+            #S
+    - _XYZ_:{ }
+
+    [Items Needs To Be Written]
+    ****IDEA USE CHAT GPT TO HELP US DRAFT AN EDIT OUR WRITING**** (Document The Process: The Application is the test.)
+    - Graduate Research Plan/Program Information (2 pages)
+    - Statement of Purpose (2 pages)
+    - Statement of Objectives (1350 words)
+    - Writing Sample (Chapter From Thesis)
+    - Personal History Statement (2-3 pages)
+    - Foundations of Graduate Study (750 chars X3)
+    - Additional Information/Personal Narrative (1 page)
+    - Describe an interesting bio problem/Additional Information (1500 chars)
+    - Abstract/Summary of Proposal and Engagement (1750 chars)
+    - Plans Upon Return (900 chars)
+
