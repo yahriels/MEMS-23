@@ -44,7 +44,21 @@
     - Z:{Computation (including fundamentals of computer science and software engineering)}
             #Additional Information (File-Upload)
     - _XYZ_:{You may use this section to provide additional information that was not covered by the questions in the application. Only one file can be uploaded at a time. To add more, click Continue below, then return to this page to see the option to add another file.}
-
+[Knight-Hennessey]
+            #PhD Academic Interest (750 chars)
+    - _XYZ_:{Briefly describe your PhD research interests.*}
+            #Work Experience
+    - _XYZ_:{Briefly describe...* 6 work experiences}
+            #Activities and Interests
+    - _XYZ_:{Briefly describe...*3 Activitres and Interests}
+            #Awards and Honors
+    - _XYZ_:{Briefly describe...* 3 Items}
+            #Short Answer
+    - X:{How will your Knight-Hennessy Scholars experience prepare you to realize your immediate and long-term intentions?* (Limit: 250 words)}
+    - Y:{Please tell us when you:* Made Someone Proud, Were Most Challenged, Fell Short of Expectations. **Combined 150 Words Max. }
+    - Z:{Please tell us eight improbable facts about you. These could include: facts that people wouldn’t expect to be true and/or facts that others are surprised to learn about you. **Combine 150 words Max.}
+            #Long Essay
+    - _XYZ_:{Connect the dots. How have the influences in your life shaped you?* (Limit: 600 words)}
 
 [MIT]
             #Employment ((maximum file size 32MB).Resume/CV)
