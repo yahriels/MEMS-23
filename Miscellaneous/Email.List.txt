@@ -36,6 +36,37 @@ eden@mit.edu
 mindell@mit.edu
 
 [Monterrey Institute of Technology]
+- Legal Systems Innovation
+rgb@tec.mx
+
+- Med and Health Sciences
+ierana@tec.mx
+ygutierrez@tec.mx
+dr.cesarlucio@tec.mx
+ynthia.villarreal@tecsalud.mx 
+
+- Digital Humanities
+maricruz.castro@tec.mx
+palomavargas@tec.mx
+
+- Humanities and Sustainable Development
+icepeda@tec.mx
+
+- Advanced Manufacturing
+ciro.rodriguez@tec.mx
+a.guevaram@tec.mx
+ 
+- Nanodevices
+smart@tec.mx
+
+- Molecular and Systems Bioengineering
+jose_gonzalez@tec.mx
+chavez.santoscoy@tec.mx
 
 
 [Universidad De Sao Paolo]
+andfkohn@leb.usp.br
+andkohn@usp.br
+
+jcbitten@icb.usp.br
+
