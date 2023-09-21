@@ -4,36 +4,38 @@
 [x] poldrack@stanford.edu
 [x] aricci@stanford.edu
 [x] isoltesz@stanford.edu
-[] dpwall@stanford.edu
-[] carolynrodriguez@stanford.edu
-[] agoldpie@stanford.edu
-[] leawilliams@stanford.edu
-[] ckeller1@stanford.edu
-[] knutson@stanford.edu
+[x] dpwall@stanford.edu
+[x] carolynrodriguez@stanford.edu
+[x] agoldpie@stanford.edu
+[x] leawilliams@stanford.edu
+[x] ckeller1@stanford.edu
+[x] knutson@stanford.edu
 
-delp@stanford.edu
-amajumdar@stanford.edu
-jops@stanford.edu
+[x] delp@stanford.edu
+[x] amajumdar@stanford.edu
+
 
 [MIT List]
-hectorb@mit.edu
-dwai@mit.edu
-condry@mit.edu
-elias_33@mit.edu
-ndm@mit.edu
-jdurant@mit.edu
-deringer@mit.edu
-mfischer@mit.edu
-dkfitz@mit.edu
-sgh2@mit.edu
-ejames@mit.edu
-gmj@mit.edu
-dikaiser@mit.edu
-jslight@mit.edu
-manning@mit.edu
-mavhunga@mit.edu
-eden@mit.edu
-mindell@mit.edu
+[x] hectorb@mit.edu
+[x] dwai@mit.edu
+[x] condry@mit.edu
+[x] elias_33@mit.edu
+[x] ndm@mit.edu
+[x] jdurant@mit.edu
+[x] deringer@mit.edu
+[x] mfischer@mit.edu
+[x] dkfitz@mit.edu
+[x] sgh2@mit.edu
+[x] ejames@mit.edu
+[x] gmj@mit.edu
+[x] dikaiser@mit.edu
+[x] jslight@mit.edu
+[x] manning@mit.edu
+[x] mavhunga@mit.edu
+[x] eden@mit.edu
+[x] mindell@mit.edu
+
+ Relevant Coursework also includes Latin American Anthropology: Race, Class, and Gender at Iowa State University Liberal Arts and Sciences as part of the U.S. Latino/a Studies Program.
 
 [Monterrey Institute of Technology]
 - Legal Systems Innovation
