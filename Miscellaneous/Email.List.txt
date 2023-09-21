@@ -1,15 +1,15 @@
 [Stanford List]
-boahen@stanford.edu
-toddcol@stanford.edu
-poldrack@stanford.edu
-aricci@stanford.edu
-isoltesz@stanford.edu
-dpwall@stanford.edu
-carolynrodriguez@stanford.edu
-agoldpie@stanford.edu
-leawilliams@stanford.edu
-ckeller1@stanford.edu
-knutson@stanford.edu
+[x] boahen@stanford.edu
+[x] toddcol@stanford.edu
+[x] poldrack@stanford.edu
+[x] aricci@stanford.edu
+[x] isoltesz@stanford.edu
+[] dpwall@stanford.edu
+[] carolynrodriguez@stanford.edu
+[] agoldpie@stanford.edu
+[] leawilliams@stanford.edu
+[] ckeller1@stanford.edu
+[] knutson@stanford.edu
 
 delp@stanford.edu
 amajumdar@stanford.edu
