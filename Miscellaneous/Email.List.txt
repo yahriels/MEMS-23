@@ -70,3 +70,86 @@ andkohn@usp.br
 
 jcbitten@icb.usp.br
 
+
+[Letter of Interest]
+
+[Your Name]
+[Your Email Address]
+[Your Phone Number]
+[Your Address]
+[City, State, ZIP Code]
+[Date]
+
+[Recipient's Name]
+[Recipient's Position]
+[University/Institution Name]
+[University/Institution Address]
+[City, State, ZIP Code]
+
+Dear [Recipient's Name],
+
+I hope this letter finds you in good health and high spirits. My name is Yahriel Salinas-Reyes, and I am writing to express my keen interest in pursuing a Ph.D. under your guidance and mentorship at [University/Institution Name]. I have been thoroughly impressed by your research contributions and the exceptional work carried out by your team, which has inspired me to seek this opportunity.
+
+I recently completed my undergraduate studies at Iowa State University, where I held the position of Information Technology Specialist. During my time there, I had the privilege of working on various research projects funded by esteemed organizations such as DARPA, SFP Programs, Boeing, and NSF. These projects allowed me to delve into diverse areas of study, including MEMS sensors, energy-absorbing composites, machine learning, piezoelectric devices, and more. I have gained valuable experience and developed a strong foundation in scientific research methodologies and experimental systems engineering.
+
+One particular area of interest to me is the exploration of natural physics and its application in understanding mental health disorders, specifically schizophrenia. I am fascinated by the intricate workings of the human mind and the complexities of psychiatric-institutional representations of abnormal human ingenuity. My objective is to contribute to the development of a scientific method that can shed light on the science of madness and mental health, ultimately leading to improved treatments and support for individuals with schizophrenia.
+
+Throughout my academic journey, I have demonstrated unwavering resilience and a relentless pursuit of knowledge. I believe that my interdisciplinary background, coupled with my passion for research, will enable me to make significant contributions to the field. I am committed to pushing the boundaries of scientific understanding and making a positive impact on society.
+
+I am drawn to your esteemed institution because of its reputation for fostering groundbreaking research and providing a nurturing environment for doctoral students. The opportunity to work alongside brilliant minds and collaborate on cutting-edge projects is something I find immensely appealing. I am confident that under your guidance, I will be able to further develop my skills, broaden my horizons, and contribute meaningfully to the scientific community.
+
+I would be honored to discuss my research interests and potential collaboration opportunities further. I have attached my curriculum vitae for your perusal, which provides a comprehensive overview of my academic achievements, research experience, and technical skills. I am also more than willing to provide any additional information or references upon request.
+
+Thank you for considering my application. I eagerly await the possibility of joining your research team and embarking on this transformative journey towards a Ph.D. Please feel free to contact me at your convenience via email at [Your Email Address] or phone at [Your Phone Number]. I look forward to the opportunity to discuss my research aspirations and how they align with your ongoing projects.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+Yahriel Salinas-Reyes
+
+
+
+
+https://github.com/yahriels/yahriels.git 
+
+
+
+[LETTER OF INTENT]
+
+[Your Name]
+[Your Address]
+[City, State, ZIP Code]
+[Email Address]
+[Phone Number]
+[Date]
+
+[Professor's Name]
+[Department Name]
+[University Name]
+[University Address]
+[City, State, ZIP Code]
+
+Dear Professor [Professor's Last Name],
+
+I hope this letter finds you in good health and high spirits. I am writing to express my sincere interest in pursuing a doctoral degree under your esteemed guidance and mentorship at [University Name]. As an aspiring researcher in the field of [Field of Study], I have been greatly inspired by your groundbreaking work in [Specific Research Area].
+
+Having thoroughly researched the research projects and publications carried out by your research group, I am deeply impressed by the innovative and impactful contributions your team has made to the field. Your expertise and dedication to advancing knowledge in [Field of Study] align perfectly with my own research interests and aspirations.
+
+Throughout my academic journey, I have had the privilege of working on various research projects that have equipped me with a strong foundation in [Field of Study]. I have actively sought opportunities to expand my knowledge and skills, and I believe that pursuing a doctoral degree under your guidance will provide me with the ideal platform to further explore and contribute to the field.
+
+I am particularly drawn to your research on [Specific Research Area], as it aligns perfectly with my own research interests. The potential to delve deeper into the intricacies of [Specific Research Area] and contribute to the existing body of knowledge in this field is both exciting and motivating for me. I am confident that working under your mentorship will not only enhance my research capabilities but also broaden my horizons as a scholar.
+
+Moreover, I am impressed by the collaborative and supportive environment that your research group fosters. The opportunity to work alongside like-minded individuals who share a passion for research and innovation is something I greatly value. I believe that the synergy between my research interests and the ongoing projects in your research group will create a stimulating and productive environment for academic growth and collaboration.
+
+I am committed to dedicating myself wholeheartedly to my doctoral studies and contributing meaningfully to the research community. I am confident that my strong work ethic, analytical skills, and ability to think critically will enable me to make significant contributions to ongoing research projects under your guidance.
+
+I would be honored to have the opportunity to discuss my research interests and potential areas of collaboration further. I have attached my curriculum vitae and a brief research statement outlining my research background and interests for your reference. I would be grateful for any feedback or guidance you can provide regarding my application to the doctoral program at [University Name].
+
+Thank you for considering my application. I eagerly await the possibility of joining your research group and embarking on this transformative academic journey under your mentorship. Please do not hesitate to contact me if you require any further information or if you would like to schedule a meeting to discuss my application in more detail.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+[Your Full Name]

@@ -24,7 +24,6 @@ MADNESS WAS A SELF HEALING VOYAGE: "to make madness and the process of going mad
 
 Use Scientific Storytelling Language and Creative Ideas to Prepare a Abstract/Summary of Proposal using the provided information: ""
 
-Deeply institutional
 
 The Physisit Explores the Science of Madness
 Strong Imagination: Madness, Creativity and Human Nature
@@ -61,90 +60,54 @@ Message and Call To Action: We have to find a way of engaging in a truthful dial
 Keywords: Mad-By-Design: An Ancient Paradigm of Psychiatric Thought; Research and Development, History of Indigenous and Latin American Cultures, Anthropology-Engineering, Science and Technology, Psychiatry and Neuroscience Systems, and Social Justice and Global Impact
 
 
-
-[ABSTRACT #1]
-Title: Modeling Dynamics of Social-Behavioral Systems to Study Schizophrenia and Neurological Abnormalities Using Entropy Ideation and Chaos Theory
-
-Abstract:
-This proposal aims to employ the ideation of entropy, or chaos theory of nonlinear systems, rooted in thermodynamic principles to model the dynamics of social-behavioral systems. The focus is to investigate schizophrenia and other neurological abnormalities, morphologies, or ingenuity of the human brain. By utilizing a fundamental method of studying neurobiological dysfunctions and abnormal functions/morphologies of the schizophrenic brain, this research aims to understand the correlations and causality of active phase-matter, encompassing traits commonly seen in neurobiological, neurodevelopmental, and psychiatric disorders.
-
-The motivation behind this study stems from the lack of comprehensive understanding regarding the potential implications of groundbreaking discoveries in neuroscience, global public health, and social sciences. Mainstream psychiatry and the wider scientific community have yet to determine how to effectively utilize these discoveries.
-
-The objective of this research is to develop a scientific method accompanied by appropriate instrumentation in order to provide foundational evidence for a clinical social explanation of schizophrenia and related traits. By basing this paradigm on biomedical-analytical and logical-mathematical scientific theories, the goal is to enable the elegant delivery of informatics toward advancing public global health.
-
-This study has the potential to bridge the gap between various disciplines and provide valuable insights into the complexities of schizophrenia and related conditions. Its social impact lies in offering a novel approach rooted in scientific theory, thereby contributing to the advancement of public global health.
+# Describe an Interesting Biologial or Biomedical Problem 
 
 
+Schizophrenia captivates me due to its profound impact on individuals and society. This complex mental disorder disrupts perception, thinking, and behavior, affecting millions worldwide. Understanding and addressing schizophrenia have far-reaching scientific, technological, and societal implications.
 
+Scientifically, unraveling schizophrenia involves studying the intricate interplay between genetic, environmental, and neurobiological factors. This multidisciplinary approach combines genetics, neuroscience, psychology, and computational modeling. By investigating underlying mechanisms, we can gain insights into its origins and develop improved diagnostic tools and treatments.
 
-[ABSTRACT #2]
-Title: Exploring Madness through Computational Techniques: Understanding the Fractured Self in Schizophrenia
+Technological advancements, such as functional magnetic resonance imaging (fMRI) and positron emission tomography (PET), provide valuable insights into the brain abnormalities associated with schizophrenia. These imaging techniques visualize structural and functional changes, aiding in the identification of biomarkers and potential therapeutic targets.
 
-Abstract: This proposal aims to contribute to the field of exploratory and applied computational/mathematical techniques of Social Chaos Theory by undertaking a groundbreaking study on madness and the process of going mad. Drawing on R.D. Laing's theory of the divided self, which suggests that insanity is a reaction to the discord between our authentic identity and the identity imposed on us by our families, this research employs the ideation of entropy and chaos theory to model the dynamics of social-behavioral systems and explore neurological abnormalities, including schizophrenia.
+The societal impact of schizophrenia is significant. Individuals with schizophrenia face personal and professional challenges, while their families and communities provide support and care. Understanding the biological underpinnings can lead to targeted interventions and support systems, improving quality of life and reducing stigma.
 
-The study's objective is to develop a scientific method and utilize scientific instrumentation in order to provide foundational evidence that could inform a clinical social explanation of schizophrenia and related traits. By understanding the correlations and causality of the active phase-matter in the schizophrenic brain, this research aims to fill the gap between neuroscience, global public health, and social sciences, which have yet to fully comprehend the implications of recent discoveries.
+My skills in statistical methods, computational fluid dynamics, signals and systems, and deep learning equip me with a strong foundation in data analysis and modeling. While not directly related to schizophrenia research, these skills demonstrate my ability to apply rigorous analytical techniques to complex problems. This proficiency will be invaluable in studying the intricate biological and genetic factors involved.
 
-Conventional narratives surrounding mental illness have often misunderstood the existential perspective presented by R.D. Laing, leading to limited progress in this field. Therefore, the proposed study seeks to employ a fundamental method of studying neurobiological dysfunctions or abnormalities to shed light on the intricate nature of schizophrenia and its relation to other psychiatric disorders.
+Moreover, my prior research projects, such as the MEMS Shear Sensor and Flow Separation Theory, funded by DARPA, have honed my ability to work collaboratively and manage research tasks effectively. These experiences have instilled in me the importance of attention to detail and contributing to overall research goals, even in seemingly mundane tasks.
 
-The findings of this research not only hold scientific significance but also have the potential to impact public global health. By incorporating biomedical-analytical and logical-mathematical scientific theories, this paradigm aims to advance informatics and contribute to the overall understanding of mental health.
+In my personal statement, I emphasized my commitment to mentorship and knowledge sharing. Collaboration and interdisciplinary information dissemination are crucial in addressing complex problems like schizophrenia. I aspire to contribute not only to scientific understanding but also to the mentorship and support of individuals affected by this disorder.
 
-To achieve this, the proposal emphasizes the need for honest and open dialogue, free from bias and enmity, in order to overcome the barriers that hinder progress in this field. By addressing these challenges and leveraging computational techniques, there is an opportunity to make insanity and the process of going mad more comprehensible, ultimately fostering advancements in both scientific knowledge and public well-being.
-
-
-
-[ABSTRACT #3]
-Title: Exploring Madness: A Path-breaking Contribution to the Understanding of Insanity through Computational and Mathematical Techniques of Social Chaos Theory
-
-Abstract:
-This proposal aims to unravel the concept of madness as a self-healing voyage, offering a fresh perspective on the comprehension of insanity and the process of going mad. Inspired by R.D. Laing's theory that madness arises from the conflict between one's imposed identity and their authentic self, this study seeks to employ exploratory and applied computational and mathematical techniques derived from Social Chaos Theory to shed light on this complex phenomenon.
-
-By embracing the idea that madness can be a breakthrough rather than a breakdown, this research aims to investigate schizophrenia and other neurological abnormalities within the framework of entropy and chaos theory of nonlinear systems. Drawing inspiration from thermodynamic principles, the dynamics of social-behavioral systems will be modeled to study the morphologies, ingenuity, and abnormalities of the human brain.
-
-Challenging the misconceptions and misunderstandings surrounding mental illness, this study addresses the controversial nature of Laing's existential perspective. By adopting a fundamental method for studying the neurobiological dysfunctions and abnormal functions/morphologies of the schizophrenic brain, the objective is to unravel the correlations and causality of active phase-matter implicated in schizophrenia as well as other related disorders.
-
-Despite the fascinating discoveries of neuroscience, global public health, and social sciences, mainstream psychiatry and the scientific community have yet to fully grasp the implications of these findings. Therefore, this research aims to bridge the gap by providing foundational evidence to inform a clinically-oriented social explanation of schizophrenia and its associated traits.
-
-The social impact of this paradigm-shifting approach lies in its ability to integrate biomedical analytics, logical-mathematical scientific theory, and informatics to advance public global health. By engaging in truthful dialogues free from knots and entanglements, including the negative emotions that often hinder understanding, this study strives to pave the way for a more comprehensive and compassionate approach towards mental health.
-
-In conclusion, this proposal presents an innovative scientific method to explore madness, offering a unique perspective on insanity through the lens of computational and mathematical techniques of Social Chaos Theory. By unraveling the complexities of mental illness, this research has the potential to revolutionize our understanding and treatment of schizophrenia and related conditions.
+In conclusion, schizophrenia presents a fascinating and challenging opportunity for scientific exploration and societal impact. My experience in data analysis, research collaboration, and commitment to mentorship aligns with the skills necessary to contribute meaningfully to this field. I am eager to delve into the complexities of schizophrenia research, working towards a better understanding and improving the lives of those affected.
 
 
 
 
-[ABSTRACT #4]
-Title: Understanding Madness: Unraveling the Hidden Potential and Social Impact
 
-Abstract:
-We are living in an era of rapid change, where grasping the present becomes challenging as it quickly fades away. This proposal aims to shed light on the idea that madness might serve a purpose, acknowledging the toll it takes on individuals while striving to comprehend the problem it seeks to solve. R.D. Laing, a visionary thinker, suggested that insanity could be seen as a reaction to the discrepancy between our prescribed identity and our true, authentic self. This notion challenged established medical views, leading to skepticism that gradually evolved over time.
+[Format Drafting a Personal Statement]
+Add a hook
+A “hook” is an interesting or eye-catching statement, anecdote, fact, or question placed at the beginning of a piece of writing.
 
-Drawing inspiration from the concept of entropy and chaos theory in nonlinear systems, specifically derived from thermodynamic principles, this study proposes to employ these ideas to model the dynamics of social-behavioral systems, focusing on schizophrenia and other neurological abnormalities. By observing the correlations and causality of active phase-matter in schizophrenic traits, the objective is to gain a deeper understanding of the neurobiological dysfunctions and morphologies present in various psychiatric disorders.
+Fellowships are competitive, and individual reviewers may be looking at hundreds of applications at a time. Anything that captures a reader’s attention and makes you stick out in the pile can make a real difference, so include a strong “hook.”
 
-The motivation behind this research stems from the prevalent lack of integration between the groundbreaking discoveries in neuroscience, global public health, and social sciences, leaving mainstream psychiatry and the scientific community at large unsure of how to utilize these findings effectively. By developing a scientifically rigorous method, supported by appropriate instrumentation, this study aims to provide foundational evidence that can inform a clinically-informed social explanation of schizophrenia and related traits.
+Show creativity
+The personal statement is not just a story about your trajectory, but a place to show your creativity. Craft the statement so that the reviewers see you as an individual and not just another applicant in the pile. For example, you can start with a story of how you became interested in science (avoiding clichés, of course) or give an example of an obstacle you had to overcome.
 
-Furthermore, this paradigm shift seeks to transcend the conventional biomedical-analytical approach and embrace a holistic perspective that incorporates indigenous and Latin American cultural histories, anthropology-engineering methodologies, and the intersection of psychiatry, neuroscience, and social justice. The ultimate goal is to advance public global health by bridging the gap between these disciplines and delivering meaningful informatics.
+Share your personal experience & goals
+Synthesize several of the following in your statement. Choose your topics based based on their relevance to the fellowship’s goals, your research, and your career path:
 
-The social impact of this research cannot be overstated, as it challenges institutionalized narratives surrounding mental illness and highlights the potential benefits of madness. It is imperative to engage in open and truthful dialogues, using a language free from malice, envy, and hatred, in order to foster understanding and empathy. By embracing this ancient paradigm of psychiatric thought, we can reshape the discourse surrounding mental health and advocate for a more inclusive and compassionate society.
+Your life experience
+Your personal history
+Your family background
+The education and cultural opportunities (or lack of, if there is a desire to learn more) to which you have been exposed
+Major influences to your intellectual development
+Your career goals
+How you plan to use the skills you will develop while supported by the fellowship
+Every word counts, and how the statement is organized and how you use the limited space is often part of the review criteria.
 
-Keywords: Mad-By-Design, Psychiatric Thought, Research and Development, Indigenous and Latin American Cultures, Anthropology-Engineering, Science and Technology, Psychiatry and Neuroscience Systems, Social Justice, Global Impact.
+Reference the fellowship’s mission
+If the fellowship is looking for applicants that can achieve stated goals or live by certain ideals, address these in the personal statement. For example, the NSF GRFP’s two-part criteria states that their applicants and their research are of intellectual merit and will make a broader impact on society.
 
+Tie it all together
+A fellowship application is not a collection of individual documents. It is an application package, so everything should be tied together.
 
-
-[ABSTRACT #5]
-
-Synopsis: This new interdisciplinary field captures the essence of the Human Ingenuity, focusing on the exploration of schizophrenia and the idea that madness may serve a function rather than being solely detrimental. The title also highlights the intersection of psychiatric thought, neuroscience, and social justice, emphasizing the potential global impact of this research. By using captivating and thought-provoking language, the scientific story aims to engage readers and spark their curiosity.
-
-Title Idea 1: "Mad-By-Design: Unraveling the Science of Schizophrenia and the Power of Human Ingenuity"
-Title Idea 2: "How He Got His Scars: Unraveling Madness to Explore Schizophrenia and Human Ingenuity through a Psychiatric Institution"
-
-Abstract:
-In today's rapidly changing world, we often struggle to understand the present before it becomes the past. This proposal aims to shed light on the function of madness, not to undermine its toll on individuals, but to unravel the problem it is meant to solve. Building upon R.D. Laing's revolutionary theory that schizophrenia arises from the battle between our imposed identity and our authentic self, this research explores the possibility of madness as a breakthrough rather than a breakdown. By applying the concepts of entropy and chaos theory to model the dynamics of social-behavioral systems, we aim to study schizophrenia and other neurological abnormalities, morphologies, and ingenuity of the human brain.
-
-Despite the initial controversy surrounding Laing's existential perspective, there is immense value in delving into the personal, interpretive, and small-scale aspects often overlooked in traditional psychiatric narratives. We propose utilizing a fundamental method of studying neurobiological dysfunctions and abnormal functions/morphologies of the schizophrenic brain. This will help uncover correlations and causalities between the active phase-matter in schizophrenic traits and other related disorders.
-
-The motivation behind this study stems from the world's failure to effectively utilize the groundbreaking discoveries in neuroscience, global public health, and social sciences. Through rigorous research and the development of a scientific method backed by advanced instrumentation, our objective is to provide foundational evidence for a clinical social understanding of schizophrenia and its related traits. This paradigm shift, rooted in biomedical-analytical and logical-mathematical scientific theory, will facilitate the advancement of global public health.
-
-To achieve meaningful impact, we must engage in a truthful dialogue free from knots of hatred, revenge, jealousy, and malice that taint our words. By exploring the history of indigenous and Latin American cultures, anthropology-engineering, science and technology, psychiatry and neuroscience systems, and social justice, we can create an open and inclusive platform for transformative research.
-
-In conclusion, our research proposal "How He Got His Scars" aims to uncover the intricate relationship between madness, mental health, and the human brain. By merging scientific methods with social impact, we can pave the way for advancements in both individual well-being and global public health. It is high time we embrace this ancient paradigm of psychiatric thought, combining research and development with a deep understanding of cultural diversity, to drive positive change in society.
-
-
+The personal statement should demonstrate that you are organized, strategic, and have a clear thought process, showing that you are qualified to carry out the work in your research proposal.
