@@ -117,17 +117,3 @@
     - _XYZ_:{ }
             #S
     - _XYZ_:{ }
-
-    [Items Needs To Be Written]
-    ****IDEA USE CHAT GPT TO HELP US DRAFT AN EDIT OUR WRITING**** (Document The Process: The Application is the test.)
-    - Graduate Research Plan/Program Information (2 pages)
-    - Statement of Purpose (2 pages)
-    - Statement of Objectives (1350 words)
-    - Writing Sample (Chapter From Thesis)
-    - Personal History Statement (2-3 pages)
-    - Foundations of Graduate Study (750 chars X3)
-    - Additional Information/Personal Narrative (1 page)
-    - Describe an interesting bio problem/Additional Information (1500 chars)
-    - Abstract/Summary of Proposal and Engagement (1750 chars)
-    - Plans Upon Return (900 chars)
-
