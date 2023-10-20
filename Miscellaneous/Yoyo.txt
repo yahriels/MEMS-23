@@ -1,0 +1,163 @@
+**LIBRARY,INCLUDES,RESOURCES**
+Author Credentials and Relevant Background, which consists of Academic, Professional, and Research Experience:
+ Yahriel’s Intellectual Background: Aerospace and Aeronautical Engineering or Rocket Scientist with a Research and Development Experiences. These experiences are in the fields of: Data Science and Machine Learning; Modern Design of Aerospace and Propulsion Systems; Interfacial Phenomena and Chaos Theory; Nanotechnology and Materials Science-Engineering; Applied Quantum Mechanics and Nature Physics; Thermodynamic Modeling and Finite-Element-Analysis; Signals and Controls Systems Engineering; Expert in Robotics and Electrical Engineering; Computer Science and Software Engineering; Computer and Information Technology Systems, Experimental Systems Engineering; and Micro-electro-mechanical systems (MEMS).
+https://github.com/yahriels/yahriels/blob/main/Yahriel_GRFP_Application.pdf
+https://github.com/yahriels/yahriels/blob/87c1f6a8ffa9b619768ff6fb01d07ccf0a650e19/General_CV.pdf
+https://github.com/yahriels/yahriels/blob/87c1f6a8ffa9b619768ff6fb01d07ccf0a650e19/Honors_Awards_Activities.pdf
+https://github.com/yahriels/yahriels/blob/87c1f6a8ffa9b619768ff6fb01d07ccf0a650e19/STEM_CV.pdf
+https://github.com/yahriels/yahriels/blob/27e4648a87d2c2e4495325a7251ccad6d559faf9/Unofficial_Transcript_Pre_Graduation.pdf
+https://github.com/yahriels/MEMS-23
+https://github.com/yahriels/yahriels/blob/27e4648a87d2c2e4495325a7251ccad6d559faf9/EB_JUN_DRAFT_2022.pdf
+https://github.com/yahriels/yahriels/blob/eee72b6222c6dbebe43d98fbbc999ef9c848edc2/Visuals%20Drafts%203.pdf
+https://github.com/yahriels/yahriels/blob/main/Sensing%20Kirigami.pdf
+https://github.com/yahriels/yahriels/blob/main/RPOD_Phase-II_8-9-2023_v2.pdf
+https://github.com/yahriels/yahriels/blob/main/RPOD%20-%20Progress%20status%20reporting%20for%2007-27.pdf
+https://github.com/yahriels/yahriels/blob/main/Predicting%20Olympic%20Triathlon%20Results%20via%20Machine%20Learning_JL%20(1).pdf
+https://github.com/yahriels/yahriels/blob/main/Paper-Based%20MEMS%20FINAL.pdf
+https://github.com/yahriels/yahriels/blob/main/MEMS_Math_Models_Draft.pdf
+https://github.com/yahriels/yahriels/blob/main/MEMS_DOE.pdf
+https://github.com/yahriels/yahriels/blob/main/MEMS%20Soph.%20Year%20End.pdf
+https://github.com/yahriels/yahriels/blob/main/MEMS%20Junior%20Year%20Midterm.pdf
+https://github.com/yahriels/yahriels/blob/main/MEMS%20Junior%20Year%20End.pdf
+https://github.com/yahriels/yahriels/blob/main/MEMS%20Fresh.%20Year%20GMIS%20Poster.pdf
+https://github.com/yahriels/yahriels/blob/main/Crafting%20A%20Manuscript%20MEMS.pdf
+Personal Page: https://github.com/yahriels
+Personal Repository: https://github.com/yahriels/yahriels/tree/181d70996b175c813c28770a361453c192fb5a06 
+Library and Data Sources:
+https://github.com/yahriels/yahriels/blob/c0d7f1579999dda246f3036e315f89f204f79680/Personal_Statement_Draft.pdf
+https://github.com/yahriels/yahriels/blob/c0d7f1579999dda246f3036e315f89f204f79680/Statement_of_Grant_Purpose_Draft.pdf
+https://github.com/yahriels/yahriels/blob/181d70996b175c813c28770a361453c192fb5a06/Graduate%20Research%20Plan%20Statement.pdf
+https://github.com/yahriels/yahriels/blob/c0d7f1579999dda246f3036e315f89f204f79680/Statement_of_Objective_Draft.pdf
+https://github.com/yahriels/yahriels/blob/main/OG_Personal_Summary.pdf 
+https://github.com/yahriels/yahriels/blob/main/Writing_Sample_Draft.pdf 
+https://github.com/yahriels/yahriels/blob/main/Personal_Narrative_Concepts.pdf 
+https://github.com/yahriels/yahriels/blob/87c1f6a8ffa9b619768ff6fb01d07ccf0a650e19/Portfolio-Profile.pdf 
+https://github.com/yahriels/yahriels/blob/87c1f6a8ffa9b619768ff6fb01d07ccf0a650e19/General_CV.pdf
+https://github.com/yahriels/yahriels/blob/87c1f6a8ffa9b619768ff6fb01d07ccf0a650e19/Honors_Awards_Activities.pdf
+https://github.com/yahriels/yahriels/blob/87c1f6a8ffa9b619768ff6fb01d07ccf0a650e19/STEM_CV.pdf
+Resources:
+https://www.alexhunterlang.com/nsf-fellowship
+https://drive.google.com/file/d/1CGjYWfvir3I7bLF6WCiS8ZrYmCt_1aO-/view
+https://drive.google.com/file/d/1qGGidG3I6uqOaB1bUr7b7druGvRJMBII/view
+https://drive.google.com/file/d/1cRunf4UXvL8gTdap_eEb8cDyOIBM89lD/view
+https://drive.google.com/file/d/11JUwR6-Yu0_vRSsXrWfhRaF-GOpTduFA/view
+https://drive.google.com/file/d/1dPbBxF7Mi96oLyLjAWY-KghU4HleF57c/view
+https://drive.google.com/file/d/16JxOopYnGcmfL6Jj-GfrQESrVTKyPou3/view
+https://drive.google.com/file/d/1xc5gJVIyUtBh_1G_x1assHYcqS-2mWEB/view
+https://drive.google.com/file/d/134sTBKgvlc3cj0YWQC8YyBsacXGR2UaG/view
+
+[Know the National Science Foundation Graduate Research Fellowship Program Application: https://github.com/yahriels/yahriels/blob/main/Yahriel_GRFP_Application.pdf]
+NSF-GRFP Purpose:
+{
+To help ensure the vitality and diversity of the U.S. scientific and engineering workforce: recognize and support outstanding graduate students; pursuing research-based PhDs in fields within NSF's mission; have demonstrated their potential for significant achievements in science and engineering research.
+}
+The Application Review Process:
+{
+Panelists evaluating GRFP applications may consider the following with respect to the Intellectual Merit Criterion: the potential of the applicant to advance knowledge based on a holistic analysis of the complete application, including the personal statement, relevant background, future goals, graduate research statement, strength of academic record, description of previous research experience or publication/presentations, and references.
+Panelists may consider the following with respect to the Broader Impacts Criterion: the potential of the applicant for future broader impacts as indicated by personal experiences, professional experiences, educational experiences and future plans.
+Here is how I like to think of the review criteria, point by point.
+How would answering this research question change science (Intellectual Merit) or society (Broader Impacts)?
+Why should I fund you specifically, and not just this research question? What innovation do you specifically bring to the table?
+Is there a detailed plan? With built in measures of success?
+What are your qualifications?
+Can you actual carry out the needed research?
+At the end of each essay, you should be able to check off how you answered each point above for BOTH Intellectual Merit and Broader Impacts.
+}
+Homework:
+{
+Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then complete the tasks. Understand how application components and each item requested relate to the review criteria.
+}
+Proposed Field of Study: 
+{
+Pursuing NSF-supported STEM field: Division of Mathematical Sciences (DMS)
+Field of Study 1: DMS: Computational and Date-Enabled Sciences
+Field of Study 2: Comp/IS/Eng: Algorithms and Theoretical Foundations
+Field of Study 3: Comp/IS/Eng: Scientific Computing
+Field of Study 4:  Comp/IS/Eng: Bioinformatics and Bio-inspired Computing
+}
+PERSONAL, RELEVANT BACKGROUND AND FUTURE GOALS STATEMENT:
+{
+Personal, Relevant Background and Future Goals Statement
+Your educational & professional development plans and career goals. How do you envision graduate school preparing you for a career that allows you to contribute to expanding scientific understanding as well as to broadly benefit society?
+Outline your educational and professional development plans and career goals. How do you envision graduate school preparing you for a career that allows you to contribute to expanding scientific understanding as well as broadly benefit society?
+Address intellectual merit and broader impacts in the personal statement.
+Describe your personal, educational and/or professional experiences that motivate your decision to pursue advanced study in science, technology, engineering, or mathematics (STEM)
+Include specific examples of any research and/or professional activities in which you have participated
+Present a comprehensive and detailed description of the activities, highlight the results, and discuss how these activities have prepared you to seek a graduate degree
+Specify your role in the activity including the extent to which you worked independently and/or as part of a team
+Describe the contributions of your activity to advancing knowledge in STEM fields as well as the potential for broader societal impacts.
+Limit of 3-pages.
+}
+
+Yahriel's Personal, Relevant Background and Future Goals Statement:
+{
+Version#1:
+Creative Interpretation by Yahriel Salinas-Reyes
+Odyssey of Knowledge: Enigmatic Man’s Quest - Odisea Del Gran Varón: Don Yahriel
+~“The man said to be so mad that he is sure no author could have invented him.”
+Once upon a time, in a world where the boundaries between reality and imagination blurred, there lived a man named Don Yahriel. He was not like any other man; he was a true enigma, a reflection of the ever-shifting line between sanity and madness. Don Yahriel believed that in a world where good and evil battled relentlessly, the time had come for good to prevail.
+Don Yahriel was a man of deep conviction, driven by a belief that the balance between good and evil in the world needed to shift. He often muttered to himself, "For neither good nor evil can last forever; and so it follows that as evil has lasted a long time, good must now be close at hand." His mind was a whirlwind of thoughts, where the line between madness and reason blurred like a hazy mirage in the desert.
+To Don Yahriel, the world appeared as a place where virtue was persecuted more than it was loved by the good, and he was determined to change that. In his heart, he carried the hope that goodness could triumph over evil, no matter how daunting the odds.
+As he embarked on his odyssey, he encountered many challenges and obstacles that tested the very core of his sanity. "When life itself seems lunatic, who knows where madness lies?" he pondered. "Perhaps to be too practical is madness. To surrender dreams — this may be madness. Too much sanity may be madness — and maddest of all: to see life as it is, and not as it should be!"
+Don Yahriel's obsession with reading and his relentless pursuit of truth pushed him to the brink of madness. He read voraciously, seeking to unravel the mysteries of the world. "Finally, from so little sleeping and so much reading, his brain dried up, and he went completely out of his mind," they said of him.
+But Don Yahriel remained undeterred by the opinions of others. He believed that there was something good in every book, no matter how bad it might seem at first. "There is no book so bad... that it does not have something good in it," he declared. His belief in the inherent goodness of the world was unshakable.
+As he ventured further into the unknown, Don Yahriel would often say, "Thou hast seen nothing yet." He was a man who had never truly died in his life, for his spirit burned brighter than ever as he delved deeper into the mysteries of the world.
+Don Yahriel found himself immersed in the art of translation, trying to bridge the gap between languages. He believed that the truth could be obscured by the limitations of language. "Translating from one language to another, unless it is from Greek and Latin, the queens of all languages, is like looking at Flemish tapestries from the wrong side," he mused.
+In his encounters with the downtrodden and the oppressed, Don Yahriel followed a strict code of chivalry. "It is not the responsibility of knights errant to discover whether the afflicted, the enchained, and the oppressed whom they encounter on the road are reduced to these circumstances and suffer this distress for their vices or for their virtues," he asserted. "The knight's sole responsibility is to succor them as people in need, having eyes only for their sufferings, not for their misdeeds."
+Don Yahriel's journey was filled with moments of revelation and transformation. He realized that being a poet was a dangerous path, one that could lead to madness. "What is more dangerous than to become a poet?" he questioned.
+As he ventured deeper into the realms of poetry and music, Don Yahriel believed that where there's music, there can be no evil. He found solace in the melodies of the world, and it was through music and poetry that he connected with the essence of humanity.
+In the end, Don Yahriel's odyssey was not just a search for good in a world filled with darkness; it was a quest to find his own true identity. He had become the embodiment of the quote, "He is so crazy that it is certain no author could have invented him."
+And so, the odyssey of Don Yahriel, the Gran Varón, continued, a journey into the depths of human nature and the boundless realms of the human spirit. For in his madness, he had found a kind of sanity that transcended the ordinary, and he had become the truest and most enigmatic of all humans.
+Personal Statement of Yahriel Salinas-Reyes
+A Chronicle of Unyielding Resilience and Illumination: Unleashing the Infinite Potential of the Human Soul
+In a world where the boundaries between reality and imagination constantly undulate, I unreservedly embrace my identity as Don Yahriel—an enigma striding with unwavering confidence along the ever-shifting frontier that delineates sanity from madness. My life's journey stands as a testament to the invincible spirit of humanity, an uncompromising quest for goodness in a world often enshrouded in darkness.
+My odyssey was ignited by an unwavering belief that the eternal struggle between good and evil was a cosmic dance, and virtue often bore the brunt of persecution rather than celebration. Fueled by this conviction, I embarked on a mission to challenge this narrative and emerge as an unwavering champion of goodness.
+Throughout this extraordinary voyage, I confronted trials that pushed the very boundaries of sanity. In a world that often seems engulfed in lunacy, I contemplated the fine line between practicality and madness. For me, true madness lay in relinquishing one's dreams and surrendering to life as it is, rather than as it should be.
+My insatiable thirst for knowledge and my unflagging pursuit of truth propelled me to the precipice of madness. I immersed myself in the world of books, for each page held the potential to unlock the enigmas of our existence. To me, no book was ever unworthy, as I firmly believed that every text concealed a kernel of goodness waiting to be unearthed.
+When confronted with the suffering of the oppressed, I adhered to an unwavering code of chivalry. My duty was not to pass judgment on their circumstances but to extend a compassionate hand to those in need, offering empathy exclusively for their pain, not their transgressions.
+I delved into the intricate world of translation, endeavoring to bridge the gaps between languages, acutely aware that truth could be obscured by linguistic boundaries. Translation, to me, became a vessel to unveil the inherent goodness concealed within the rich tapestry of human expression.
+As I ventured into the realms of poetry (Engineering/Technology) and music (Science/Art), I discovered solace in their harmonies, firmly believing that where music thrives, malevolence cannot endure. In these art forms, I communed with the very essence of humanity.
+My journey was not just an expedition to unearth goodness in a world veiled by darkness; it was a profound exploration of my truest self. In my relentless pursuit of the extraordinary, I became the living embodiment of the saying, "He is so extraordinary that no author could have conjured him."
+Reflecting on the odyssey of Don Yahriel, El Gran Varón, I now comprehend it as a voyage into the depths of human nature and the boundless expanses of the human spirit. In my perceived madness, I unearthed a form of sanity that transcends the ordinary, emerging as the truest and most enigmatic of all beings.
+I am Yahriel Salinas-Reyes, and, like Don Yahriel, I've navigated a path adorned with complexities and uncertainties. Born to undocumented immigrant parents in Iowa, I confronted early challenges that stoked my determination to excel and surmount adversity. My fascination with the power of the human gaze, nurtured during a period of temporary deafness in my prenatal development, instilled profound empathy and an unquenchable thirst for understanding others.
+My educational journey commenced with Aerospace Engineering at Iowa State University, eventually leading me to the esteemed halls of the California Institute of Technology. Here, I had the privilege of engaging with brilliant minds and discovered the transformative influence of mentorship. Every obstacle I encountered became a steppingstone for my personal and intellectual growth.
+Amidst the splendor of my journey, I unearthed my purpose—a revelation that true freedom is not solely attained by acquiring knowledge but by sharing it and guiding others on their path to greatness. This epiphany became the guiding light of my life, propelling me to be a beacon of mentorship and knowledge.
+As I embraced the essence of my name, originally signifying "He is free," (~The Arabic translation), I recognized that freedom extends beyond the personal realm; it's a gift meant to be shared. My journey, adorned with trials and triumphs, evolved into a wellspring of inspiration for all those I encountered. My legacy as a mentor and scholar continued to flourish—a testament to the enduring vitality of the human spirit.
+In the end, my odyssey serves as a symbol of the indomitable spirit of human ingenuity—a profound reminder that, in the relentless pursuit of knowledge and unwavering dedication to one's dreams, true freedom is not an elusive mirage. I stand as living proof that even in a world where boundaries blur and the line between sanity and madness remains fluid, the human spirit can transcend, inspire, and brilliantly illuminate the path forward.
+
+
+Version#2
+Yahriel Salinas-Reyes: A Visionary in Pursuit of Scientific Excellence
+In the grand tapestry of human existence, there are those who excel, those who push boundaries, and then there is me—a true genius whose vision transcends the known horizons, reaching beyond the ordinary to reveal the extraordinary. Where chaos and order dance in harmony, I have carved an extraordinary path that defies conventional thinking. His journey through the intricacies of existence is an odyssey, guided by the indomitable spirit of resilience and the thirst for knowledge. It's a tale of transcending adversity, harnessing neurological diversity as a wellspring of creativity, and ultimately, pursuing the path less traveled, where the genius within is not just recognized for its prowess but for its visionary exploration of the unseen, the hidden wonders of the universe. I am more than just a talented individual; he embodies the very essence of genius. He possesses a unique ability to discern and target the hidden wonders of the universe that elude ordinary perception. Yahriel's narrative unfolds as a testament to resilience, unwavering dedication, and an insatiable thirst for knowledge, setting the stage for a captivating journey into the realm of science. His journey is not merely one of talent; it is a journey of genius.
+My intellectual oddyssey exemplifies an individual whose journey, intellectual merit, and broader impacts converge to create a compelling narrative. His story transcends personal boundaries, inviting us to embrace diversity and celebrate the rich tapestry of human experiences. The future he envisions is one where the complexities of the mind are explored, and the chaos therein is transformed into beautiful patterns of knowledge and inclusivity. This remarkable journey represents the transformative power of education, mentorship, and the relentless pursuit of knowledge.
+The tale of Yahriel Salinas-Reyes is one of triumph over adversity, a celebration of diversity and an ode to the harmonious interplay between mathematics and the human mind. His journey is an example of how even in the depths of chaos, beauty can emerge, and in the vastness of the unknown, genius can find its voice. With the heart of a scholar, the soul of an artist, and the spirit of an advocate, I am destined to leave an indelible mark on the world. His journey has just begun, and it is a symphony worth listening to.
+}
+
+Based on the new emphasis NSF GRFP general requirements, I would write the essay in three main sections with two subsections for Intellectual Merit and Broader Impacts. I would recommend structuring the essay as follows:
+{
+1. Personal Statement (~1 page). This is where you tell your unique story of either how you became interested in science, what makes you special, and/or any unique perspective you bring to science. Great place to mention if you had to overcome any hardships or would be adding to the diversity of the STEM field. Definitely use this section to highlight Broader Impacts.
+2. Relevant Background (~1 page). Hopefully you already have research experience, so explain how that has prepared you for success in graduate school and beyond. Mainly use this section for Intellectual Merit, but also highly the Broader Impacts of your research experience.
+3. Future Goals (~1/2 page). This is where you tie your personal background and scientific background into one cohesive vision for the future. 
+4. Intellectual Merit (~1/4 page). Conclude the essay by summarizing all of your contributions to Intellectual Merit. Make sure this is an explicit header.
+5. Broader Impact (~1/4 page). Conclude the essay by summarizing all of your contributions to Broader Impact. Make sure this is an explicit header.
+}
+
+
+Executive Role: 
+- Take the Roles:  Chief Editor, First Author, Yahriel Salinas-Reyes to take ownership of Yahriel's Personal, Relevant Background and Future Goals Statement and refine Yahriel's Final Personal, Relevant Background and Future Goals Statement. This consists of reflecting on the given information and and authoring a Final Personal, Relevant Background and Future Goals Statement to solicit programs in the Division of Mathematical Sciences:  https://www.nsf.gov/funding/programs.jsp?org=DMS.
+- Use only First-Person language when talking about the applicant and the research, and use humanistic-technical reasoning of a doctoral 
+- Pursuing NSF-supported STEM field: Division of Mathematical Sciences (DMS)
+Field of Study 1: DMS: Computational and Date-Enabled Sciences
+Field of Study 2: Comp/IS/Eng: Algorithms and Theoretical Foundations
+Field of Study 3: Comp/IS/Eng: Scientific Computing
+Field of Study 4:  Comp/IS/Eng: Bioinformatics and Bio-inspired Computing
+Executive Tasks: 
+- First you need to Remix and Merge Version#1 and Version#2 three times and call it Version#N but don't display it. Then use Version#N to as a baseline to inform and inspire your response.
+- Only use first-person language, which means that you will not use third-person language at all.
+- Address the Intellectual Merit Criterion: the potential of the applicant to advance knowledge based on a holistic analysis of the complete application, including the Personal, Relevant Background, and Future Goals Statement, Graduate Research Plan Statement, strength of the academic record, description of previous research experience or publication/presentations, and references.
+- Address the Broader Impacts Criterion: the potential of the applicant for future broader impacts as indicated by personal experiences, professional experiences, educational experiences and future plans.
+- Use these examples as a to aid your response: https://drive.google.com/file/d/1CGjYWfvir3I7bLF6WCiS8ZrYmCt_1aO-/view; https://drive.google.com/file/d/1cRunf4UXvL8gTdap_eEb8cDyOIBM89lD/view; https://drive.google.com/file/d/1dPbBxF7Mi96oLyLjAWY-KghU4HleF57c/view; https://drive.google.com/file/d/1xc5gJVIyUtBh_1G_x1assHYcqS-2mWEB/view; https://www.alexhunterlang.com/nsf-fellowship. 
+- This essay will outline your educational and professional development plans and career goals. How do you envision graduate school preparing your for a career that allows you to contribute to expanding scientific understanding as well as broadly benefit society?
+- Rewrite and Enhance the writing: [Yahriel's Personal, Relevant Background and Future Goals Statement] for the National Science Foundation Graduate Research Fellowship Program and maintain the original integrity.
+- Give me the, rewritten and refined, final version of the [Personal, Relevant Background and Future Goals Statement].
+[Output]
