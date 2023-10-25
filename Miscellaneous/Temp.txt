@@ -1,68 +1,174 @@
-Proposed Research Title: Unraveling the Etiology of and Neurobiological Landscape of Schizophrenia: A Transdisciplinary Method Informed by Numbers, Shapes, and Prediction.
-Introduction: The field of mental health is a profound challenge in contemporary society, affecting millions of lives worldwide. Addressing this challenge requires not only medical and psychological insights but also the transformative power of science and biological anthroengineering. This proposed research operates at the intersection of diverse scientific disciplines, with a mission encompassing two primary objectives: first, to decode the intricate neurobiological landscape of schizophrenia, and second, to uncover the genetic and molecular mechanisms governing the synthesis of potential natural antidepressants found in grapes. Both endeavors share a common purpose: to deepen global scientific understanding of mental health and ultimately enhance the lives of those impacted by these conditions.
-Background: My research is a harmonious blend of precision biology, cutting-edge technology, international collaboration, and mathematical frameworks, all united in the pursuit of transforming mental health care, advancing precision medicine, fostering collaboration, and promoting diversity and inclusion in STEM fields. I have the prolific opportunity to attend Tecnológico de Monterrey as a visiting fellow where Dr. José González-Valdez will proudly assume the role of my research advisor, in the Molecular and Systems Bioengineering Research Group and the FEMSA Biotechnology Center. This opportunity represents a watershed moment in the pursuit of knowledge and global collaboration. The foundation of this research is a harmonious blend of precision biology, cutting-edge technology, international collaboration, and mathematical frameworks, all united in the pursuit of transforming mental health care, advancing precision medicine, fostering collaboration, and promoting diversity and inclusion in STEM fields. This work is founded upon a rich tapestry of existing knowledge, including insights from studies examining the fractality of sensations and brain health, providing invaluable clues for applying fractal mathematics to comprehend neurodegenerative disorders. Additionally, research on metastability as a biomarker of schizophrenia pathology is instrumental. Furthermore, inspiration is drawn from investigations into brain responses to dynamic multimodal stimuli in schizophrenia and depression, as well as studies on brain volumetric abnormalities in recent-onset schizophrenia. These sources collectively underpin the research, emphasizing the importance of fractal analysis in understanding neurodegenerative disorders and the task of identifying biomarkers for schizophrenia.
-Research Plan: The proposed research hinges on a robust mathematical framework, critical for analyzing intricate data derived from both scientific pursuits. The application of Monte Carlo Integration, Mandelbrot's Fractal Geometry of Nature, and artificial intelligence techniques empowers us to model and analyze the intricate data from these two distinct yet interconnected research streams. The mathematical framework is rooted in three fundamental equations: the Gaussian Theorem, Navier-Stokes Theorem, and Divergence Theorem. These equations have been instrumental in comprehending intricate processes across various scientific disciplines. By transplanting these mathematical concepts into the realm of mental health research, I can delve deeper into the neurobiological landscape of schizophrenia and the genetic mechanisms behind potential natural antidepressants present in grapes.
-Hypothesis and Research Plan: The central hypothesis is that by unraveling the genetic and molecular basis of natural antidepressant production in grapes, we can take significant steps toward tackling the crisis of mental health disorders and potentially forging innovative therapeutic solutions for schizophrenia. The research plan revolves around three fundamental aims:
-Aim 1: The foremost goal is to pinpoint the specific compounds within grapes that are responsible for their potential antidepressant properties. The significance of this aim lies in its potential to develop natural and potentially safer alternatives for mental health treatment. This interdisciplinary approach relies on the collaborative efforts of experts in precision biology, biotechnology, and molecular analysis, enabling us to comprehensively explore the genetic and molecular mechanisms underpinning the antidepressant properties of grapes.
-Aim 2: I aim to delve into the neurobiological landscape of schizophrenia by investigating the etiological factors leading to abnormal brain functions and structural anomalies. A profound understanding of the neurobiological basis of the disorder is paramount for developing targeted treatments. I will employ advanced dimensional and spectral analysis techniques to identify the underlying factors contributing to the complexity of schizophrenia, thus facilitating more precise interventions.
-Aim 3: The incorporation of mathematical frameworks such as fractal mathematics and Monte Carlo Integration is indispensable for analyzing and interpreting data from both facets of our project. This is vital for making sense of complex data, identifying patterns, and gaining insights into the multifaceted aspects of my research.
-Limitations and Considerations: It's important to acknowledge the limitations and considerations inherent in the research. The multidisciplinary nature of my approach can present challenges in terms of coordination, as it involves experts from diverse scientific backgrounds. Effective communication and collaboration are paramount to surmount this challenge. Additionally, this research heavily relies on data analysis, which is sensitive to the quality and quantity of available data. Data collection and curation are integral components of this project.
-Anticipated Results: I anticipate that my research will lead to the identification of specific compounds within grapes responsible for their potential antidepressant properties. Simultaneously, this investigation into schizophrenia is poised to unveil crucial insights into the neurobiological landscape of the disorder. Furthermore, I expect that the application of mathematical frameworks will provide valuable tools for data analysis and interpretation, thereby enhancing my understanding of these complex phenomena.
-Intellectual Merit: The proposed research is poised to advance our understanding of the intricate neurobiological landscape of schizophrenia and the potential natural antidepressants found in grapes. By applying cutting-edge mathematical frameworks, precision biology, and multidisciplinary collaboration, this research offers a novel approach to tackling complex mental health challenges. The transformative potential of this work lies in its ability to shed light on the etiology of schizophrenia and the natural antidepressant properties of grapes, ultimately contributing to advancements in precision medicine and mental health treatment. It unifies diverse scientific disciplines to address pressing societal issues, offering a unique perspective on the intersection of mathematics, biology, and mental health.
-Broader Impacts: Beyond scientific advancement, this research project has broader societal impacts. It has the potential to transform mental health care and provide natural alternatives to traditional treatments, improving the quality of life for countless individuals affected by mental health disorders. Moreover, the project is committed to fostering diversity and inclusion in STEM fields by engaging in international collaboration, which will offer opportunities for underrepresented groups to participate in cutting-edge research. By merging these ambitious research goals with a commitment to social progress, this project aims to leave a lasting impact on the scientific community and society at large.
-Conclusion: The proposed research, an ambitious undertaking at the intersection of mathematics, biology, and mental health, holds great promise for enhancing our understanding of schizophrenia and the potential natural antidepressants found in grapes. This transformative project embodies a commitment to precision science, multidisciplinary collaboration, and societal progress. As I embark on this journey, I anticipate significant contributions to our knowledge of these subjects, and I am excited about the potential to advance mental health care, promote diversity and inclusion in STEM, and, ultimately, make a positive impact on the lives of those affected by these conditions.
-Proposed Research Title: Nature Code Unveiled Through Mathematical Sciences: An Existential Perspective From Chaos Game, Neuroscience, and Biological Anthroengineering.
-Mental health is a critical concern in contemporary society, impacting millions of lives worldwide. Addressing this issue requires not only medical and psychological insights but also the transformative power of science and engineering. The proposed research seeks to develop computational methods and tools for optimizing structural performance and safety, with a focus on Biological anthroengineering. This research project draws inspiration from interdisciplinary connections between aerospace, neuroscience, and Biological anthroengineering. It aims to bridge the gap between these fields, developing a common language for effective communication, respect, and integration of expertise to create new syntheses that transcend traditional disciplinary boundaries.
-Introduction: My research project operates at the crossroads of diverse scientific disciplines, aiming to address the profound challenges presented by mental health disorders. My mission encompasses two primary objectives: first, to decode the intricate neurobiological landscape of schizophrenia, and second, to uncover the genetic and molecular mechanisms governing the synthesis of potential natural antidepressants found in grapes. Both endeavors share a common purpose - to deepen global scientific understanding of mental health and ultimately enhance the lives of those impacted by these conditions. 
-Background: My research is a harmonious blend of precision biology, cutting-edge technology, international collaboration, and mathematical frameworks, all united in the pursuit of transforming mental health care, advancing precision medicine, fostering collaboration, and promoting diversity and inclusion in STEM fields. I have the prolific opportunity to attend Tecnológico de Monterrey as a visiting fellow where Dr. José González-Valdez will proudly assume the role of my research advisor, in the Molecular and Systems Bioengineering Research Group and the FEMSA Biotechnology Center. This opportunity represents a watershed moment in the pursuit of knowledge and global collaboration.
-Proposal: Guided by these foundational works, I aim to construct a multifaceted approach that integrates fractal mathematics, molecular biology, and advanced mathematical frameworks to unravel the complexities of schizophrenia and the potential natural antidepressants found in grapes. This is vital for making sense of complex data, identifying patterns, and gaining insights into the multifaceted aspects of my research.
-Hypothesis and Research Plan: The central hypothesis is that by unraveling the genetic and molecular basis of natural antidepressant production in grapes, we can take significant steps toward tackling the crisis of mental health disorders and potentially forging innovative therapeutic solutions for schizophrenia. 
-Intellectual Merit: The proposed research has the potential to significantly advance knowledge in various fields, addressing multiple criteria set by the National Science Foundation.
-1.	Scientific Impact: This research will bring together mathematical sciences, neuroscience, and etiology to develop innovative computational methods for optimizing biological anthroengineering techniques. It will provide a novel perspective by combining previously isolated ideas, fostering interdisciplinary collaboration, and enabling the integration of both academic and practical knowledge. The holistic approach and cross-disciplinary methodology have the potential to revolutionize how we understand and approach complex problems, advancing science significantly.
-2.	Innovation: The research integrates modern design principles, advanced materials, and structural analysis methods, harnessing advanced computational models to improve neuroimaging performance, efficiency, and safety. This innovative approach transcends traditional disciplinary boundaries, making it a unique contribution to science and engineering. It is an exemplary case of addressing research questions by leveraging the strengths of multiple disciplines, leading to innovation not achievable by individual fields.
-3.	Qualifications and Expertise: The applicant, Yahriel Salinas-Reyes, possesses a diverse background, including Biological anthroengineering , data science, machine learning, and robotics. These qualifications are pivotal in carrying out the research. The comprehensive skill set ensures the ability to execute the research effectively, conduct complex simulations, and develop advanced control mechanisms for aerospace systems. The integration of these diverse skills is a testament to the applicant's readiness for this pioneering research.
-Broader Impacts: This research project extends beyond scientific advancement and reaches into broader societal impacts, aligning with the National Science Foundation's mission.
-1.	Innovation in Mathematical Sciences: The development of computational tools to illuminate the neurological landscape of schizophrenia will revolutionize the neuroscience and psychiatric industry. It has the potential to impact global public health.
-2.	Enhancing Safety: The pharmaceutical and bioengineering industry will benefit from the research's findings by discovering natural anti-depressants from grapes and developing safer alternatives for mental health treatments. 
-3.	Educational Outreach: The applicant's commitment to promoting diversity and inclusion in STEM fields is reflected in the research's broader impacts. Through outreach programs and collaborations, underrepresented groups will be inspired to pursue careers in Biological anthroengineeringand related STEM disciplines. This outreach will contribute to building a more diverse and inclusive scientific community.
-4.	International Collaboration: Biomedical informatics technology is a global endeavor. The research project encourages international collaboration, knowledge sharing, and joint efforts to address global challenges in the public health industry. It will foster connections between researchers worldwide and promote a collective approach to global data-enabled challenges.
-5.	Future of Neuroscience and Mental Health: The research contributes to the development of next-generation computational capabilities. Additionally, the innovative methodology applied in Biological anthroengineeringcould have implications for understanding and addressing mental health disorders, ultimately advancing society's understanding of these critical issues.
-In conclusion, this research project is not only intellectually meritorious but also has far-reaching impacts on safety, sustainability, and innovation in the molecular systems and bioengineering industry. Through this research, Yahriel Salinas-Reyes aspires to make a meaningful contribution to science and engineering while inspiring the next generation of diverse STEM professionals. This transdisciplinary approach breaks down the barriers between academic fields, creating a framework for collaboration and innovation that can have a lasting impact on both science and society.
-The power of this approach is demonstrated by its ability to address the United Nations' 17 Sustainable Development Goals and tackle issues that transcend individual disciplines. It fills a critical gap in the research landscape by providing a generalized framework for addressing complex problems. By fostering collaboration and transdisciplinary thinking, this research project can have a transformative effect on how we approach complex, real-world challenges.
+**LIBRARY,INCLUDES,RESOURCES**
+Author Credentials and Relevant Background, which consists of Academic, Professional, and Research Experience:
+ Yahriel’s Intellectual Background: Aerospace and Aeronautical Engineering or Rocket Scientist with a Research and Development Experiences. These experiences are in the fields of: Data Science and Machine Learning; Modern Design of Aerospace and Propulsion Systems; Interfacial Phenomena and Chaos Theory; Nanotechnology and Materials Science-Engineering; Applied Quantum Mechanics and Nature Physics; Thermodynamic Modeling and Finite-Element-Analysis; Signals and Controls Systems Engineering; Expert in Robotics and Electrical Engineering; Computer Science and Software Engineering; Computer and Information Technology Systems, Experimental Systems Engineering; and Micro-electro-mechanical systems (MEMS).
+https://github.com/yahriels/yahriels/blob/main/Yahriel_GRFP_Application.pdf
+https://github.com/yahriels/yahriels/blob/87c1f6a8ffa9b619768ff6fb01d07ccf0a650e19/General_CV.pdf
+https://github.com/yahriels/yahriels/blob/87c1f6a8ffa9b619768ff6fb01d07ccf0a650e19/Honors_Awards_Activities.pdf
+https://github.com/yahriels/yahriels/blob/87c1f6a8ffa9b619768ff6fb01d07ccf0a650e19/STEM_CV.pdf
+https://github.com/yahriels/yahriels/blob/27e4648a87d2c2e4495325a7251ccad6d559faf9/Unofficial_Transcript_Pre_Graduation.pdf
+https://github.com/yahriels/MEMS-23
+https://github.com/yahriels/yahriels/blob/27e4648a87d2c2e4495325a7251ccad6d559faf9/EB_JUN_DRAFT_2022.pdf
+https://github.com/yahriels/yahriels/blob/eee72b6222c6dbebe43d98fbbc999ef9c848edc2/Visuals%20Drafts%203.pdf
+https://github.com/yahriels/yahriels/blob/main/Sensing%20Kirigami.pdf
+https://github.com/yahriels/yahriels/blob/main/RPOD_Phase-II_8-9-2023_v2.pdf
+https://github.com/yahriels/yahriels/blob/main/RPOD%20-%20Progress%20status%20reporting%20for%2007-27.pdf
+https://github.com/yahriels/yahriels/blob/main/Predicting%20Olympic%20Triathlon%20Results%20via%20Machine%20Learning_JL%20(1).pdf
+https://github.com/yahriels/yahriels/blob/main/Paper-Based%20MEMS%20FINAL.pdf
+https://github.com/yahriels/yahriels/blob/main/MEMS_Math_Models_Draft.pdf
+https://github.com/yahriels/yahriels/blob/main/MEMS_DOE.pdf
+https://github.com/yahriels/yahriels/blob/main/MEMS%20Soph.%20Year%20End.pdf
+https://github.com/yahriels/yahriels/blob/main/MEMS%20Junior%20Year%20Midterm.pdf
+https://github.com/yahriels/yahriels/blob/main/MEMS%20Junior%20Year%20End.pdf
+https://github.com/yahriels/yahriels/blob/main/MEMS%20Fresh.%20Year%20GMIS%20Poster.pdf
+https://github.com/yahriels/yahriels/blob/main/Crafting%20A%20Manuscript%20MEMS.pdf
+Personal Page: https://github.com/yahriels
+Personal Repository: https://github.com/yahriels/yahriels/tree/181d70996b175c813c28770a361453c192fb5a06 
+Library and Data Sources:
+https://github.com/yahriels/yahriels/blob/c0d7f1579999dda246f3036e315f89f204f79680/Personal_Statement_Draft.pdf
+https://github.com/yahriels/yahriels/blob/main/Graduate%20Research%20Plan%20Statement%20Draft.pdf
+https://github.com/yahriels/yahriels/blob/181d70996b175c813c28770a361453c192fb5a06/Graduate%20Research%20Plan%20Statement.pdf
+https://github.com/yahriels/yahriels/blob/main/Writing_Sample_Draft.pdf 
+https://github.com/yahriels/yahriels/blob/main/Personal_Narrative_Concepts.pdf 
+https://github.com/yahriels/yahriels/blob/87c1f6a8ffa9b619768ff6fb01d07ccf0a650e19/Portfolio-Profile.pdf 
+https://github.com/yahriels/yahriels/blob/87c1f6a8ffa9b619768ff6fb01d07ccf0a650e19/General_CV.pdf
+https://github.com/yahriels/yahriels/blob/87c1f6a8ffa9b619768ff6fb01d07ccf0a650e19/Honors_Awards_Activities.pdf
+https://github.com/yahriels/yahriels/blob/87c1f6a8ffa9b619768ff6fb01d07ccf0a650e19/STEM_CV.pdf
+Resources:
+The Paul & Daisy Soros Fellowships for New Americans Program Application: https://github.com/yahriels/yahriels/blob/main/Yahriel_Soros_Application.pdf
+https://pdsoros-fellowships.smapply.io/prog/2024_application_for_the_paul_and_daisy_soros_fellowships_for_new_americans_/
+https://pdsoros-fellowships.smapply.io/prog/lst/
+https://www.pdsoros.org/
+National Science Foundation Graduate Research Fellowship Program Application: https://github.com/yahriels/yahriels/blob/main/Yahriel_GRFP_Application.pdf
+https://github.com/yahriels/yahriels/blob/main/Graduate%20Research%20Plan%20Statement%20Draft.pdf
+https://github.com/yahriels/yahriels/blob/main/GRFP_Personal_Draft.pdf
 
-Proposed Research Title: Nature Code Unveiled Through Mathematical Sciences: An Existential Perspective From Chaos Game, Neuroscience, and Biological Anthroengineering.
-Introduction: Mental health is a critical concern in contemporary society, impacting millions of lives worldwide. Addressing this issue requires not only medical and psychological insights but also the transformative power of science and engineering. The proposed research seeks to develop computational methods and tools for the proposed dissertation, focusing on the mapping of the neurological landscape of schizophrenia. This research project is deeply rooted in the academic, professional, and research experiences that have equipped me with the expertise to tackle complex engineering challenges in Neuroscience and Biomedical Data-Science/Informatics.
-Background: My research lies at the intersection of mathematical sciences, etiology, data-enabled science, and anthropology-engineering. Building upon my academic foundation in aerospace and aeronautical engineering, I have gained valuable professional experience in the science and technology industry and conducted research in various areas. My journey into data science and machine learning has expanded my analytical capabilities, enabling me to explore new avenues. Transdisciplinarity forms a common axiom that transcends the disciplines, creating an overarching synthesis. As these syntheses combine previously isolated thoughts and ideas, the knowledge created by their integration is greater than anything that can be created by a single discipline on its own. Simply put, the whole is greater than the sum of its parts (Aristotle). Here we propose a new field that transcends existing disciplines.
-Research Plan: The primary goal of my research is to develop cutting-edge computational tools for analyzing and optimizing biological anthroengineering. This involves integrating modern design principles, advanced materials, and structural analysis methods to enhance the performance, efficiency, and safety of neuroimaging systems. My work draws inspiration from interfacial phenomena and chaos theory, where the complex interactions between materials and external forces can be described and harnessed through advanced computational models.
-Methodology: A recent transdisciplinary trend combining anthropology and engineering—anthroengineering—has become increasingly popular over the last few decades. It has played a crucial role in the development of fields such as biomechanics, ergonomics, and functional morphology. I will leverage my expertise in thermodynamic modeling and finite-element analysis to create detailed simulations of brain anatomical structures. These simulations will encompass a wide range of experimental conditions and designs. Furthermore, my background in signals and control systems engineering will enable me to develop advanced control mechanisms to enhance the adaptability and safety of these structures. Robotics and electrical engineering skills will play a pivotal role in the automation and control of aerospace systems.
-Research Plan Timeline: The research will unfold over five years:
-•	Year 1: Comprehensive literature review and initial data collection
-•	Year 2: Development of advanced computational models
-•	Year 3: Simulation and analysis of aerospace structures
-•	Year 4: Experimental validation and refinement of models
-•	Year 5: Dissemination of research findings and contributions to nanotechnology, the etiology of schizophrenia and mental health, and global and public health industries.
-Broader Impacts: My research project is not limited to scientific advancement but extends to broader societal impacts:
-•	Innovation in Neuroscience: By developing computational tools that can optimize bioengineering techniques, my research can significantly improve the efficiency and safety of neuroimaging. This, in turn, can reduce fuel consumption, emissions, and the neurological footprint of neuroplasticity and Schizophrenia.
-•	Enhancing Safety: The pharmaceutical and bioengineering industry will benefit from my work through the design of more reliable and safer aircraft. These advancements have the potential to reduce accidents and save lives.
-•	Educational Outreach: I am committed to promoting diversity and inclusion in STEM fields. Through outreach programs and collaborations, I aim to inspire underrepresented groups to pursue careers in Biological anthroengineering and related STEM disciplines.
-•	International Collaboration: Collaborations with researchers worldwide are vital in advancing aerospace technology. My research project will encourage international collaboration and knowledge sharing to address global challenges in the biotechnology and global-public health industry.
-•	Future of Mental Health and Mathematics: My research contributes to the development of next-generation biotechnology systems and universal analytical computational techniques. These innovations hold the potential to reshape the future of transportation and scientific exploration.
-Conclusion: In conclusion, my research project is driven by a passion for anthropology-engineering, a commitment to scientific excellence, and a dedication to improving society. The development of advanced computational tools for neuroanatomical structure analysis will not only advance our knowledge of neurological disorders and neuroplasticity but will also have far-reaching impacts on safety, sustainability, and innovation in the bioengineering industry. Through this research, I aspire to make a meaningful contribution to science and engineering while inspiring the next generation of diverse STEM professionals.
-Proposed Research Title: Unraveling the Etiology of and Neurobiological Landscape of Schizophrenia: A Transdisciplinary Method Informed by Numbers, Shapes, and Prediction.
-Introduction: This research project operates at the crossroads of diverse scientific disciplines, aiming to address the profound challenges presented by mental health disorders. My mission encompasses two primary objectives: first, to decode the intricate neurobiological landscape of schizophrenia, and second, to uncover the genetic and molecular mechanisms governing the synthesis of potential natural antidepressants found in grapes. Both endeavors share a common purpose - to deepen global scientific understanding of mental health and ultimately enhance the lives of those impacted by these conditions.
-Background: My research is a harmonious blend of precision biology, cutting-edge technology, international collaboration with Dr. José González-Valdez, Director of Outreach and Research Diplomacy, School of Engineering and Sciences Tecnológico de Monterrey, and mathematical frameworks, all united in the pursuit of transforming mental health care, advancing precision medicine, fostering collaboration, and promoting diversity and inclusion in STEM fields. This work is founded upon my experience in genomics, structural biology, and functional neuroimaging, which have equipped me with a robust skillset necessary for comprehensive research on neurobiological mechanisms of schizophrenia.
-Research Plan: The primary objective of this research is to unravel the etiology and neurobiological underpinnings of schizophrenia by combining advanced neuroimaging techniques with genomic and biomarker data. By identifying the neural circuitry involved and the genetic factors contributing to the disorder, we aim to improve diagnosis, treatment, and ultimately, the quality of life for those affected.
-Methodology: The research will involve a transdisciplinary approach that brings together neuroimaging, genetics, and mathematical modeling. We will collect neuroimaging data from individuals with schizophrenia and healthy controls, analyze genetic data to identify risk factors, and develop mathematical models to understand the interactions between genetic and neural variables. This approach will provide a holistic view of the disorder, revealing novel insights that can guide future research and treatment strategies.
-Research Plan Timeline: The research will be conducted over five years:
-•	Year 1: Data collection and establishment of the research framework
-•	Year 2: Neuroimaging and genetic data analysis
-•	Year 3: Development of mathematical models
-•	Year 4: Validation of models and refinement of findings
-•	Year 5: Publication of research results, collaboration with international partners, and educational outreach initiatives.
-Broader Impacts: This research project holds significant potential for scientific advancement and societal impact:
-•	Advancing Mental Health Care: By deepening our understanding of schizophrenia, this research can pave the way for more effective diagnosis, treatment, and prevention strategies.
-•	Fostering Collaboration: International collaboration with researchers like Dr. José González-Valdez will promote knowledge sharing and a diverse perspective on schizophrenia research.
-•	Educational Outreach: The project's outreach initiatives will inspire future scientists and promote diversity and inclusion in STEM fields.
-•	Precision Medicine: By identifying the genetic and neural factors contributing to schizophrenia, this research can contribute to the development of precision medicine approaches, tailored to individual patients.
-•	Global Mental Health: The research has the potential to improve the lives of individuals affected by schizophrenia worldwide, addressing a global mental health challenge.
-Conclusion: In conclusion, my research project is driven by a deep commitment to advancing our understanding of mental health disorders and improving the lives of those affected by them. By combining neuroimaging, genetics, and mathematical modeling, I aim to unravel the complex etiology of schizophrenia, ultimately paving the way for more effective diagnosis, treatment, and prevention strategies. Through this research, I aspire to make a meaningful contribution to the field of mental health, fostering international collaboration, and inspiring the next generation of diverse STEM professionals.
+[Know the Application: https://github.com/yahriels/yahriels/blob/main/Yahriel_Soros_Application.pdf;  https://pdsoros-fellowships.smapply.io/prog/2024_application_for_the_paul_and_daisy_soros_fellowships_for_new_americans_/; https://pdsoros-fellowships.smapply.io/prog/lst/; https://www.pdsoros.org/]
+Application Purpose:
+{
+TThe Paul & Daisy Soros Fellowships for New Americans program honors the contributions of immigrants and children of immigrants to the United States. Each year, we invest in the graduate education of 30 New Americans—immigrants and children of immigrants—who are poised to make significant contributions to US society, culture or their academic field. Each Fellow receives up to $90,000 in financial support over two years, and they join a lifelong community of New American Fellows.
+}
+The Application Review Process:
+{
+Panelists evaluating 
+applications may consider the following with respect to the Intellectual Merit Criterion: the potential of the applicant to advance knowledge based on a holistic analysis of the complete application, including the personal statement, relevant background, future goals, graduate research statement, strength of academic record, description of previous research experience or publication/presentations, and references.
+Panelists may consider the following with respect to the Broader Impacts Criterion: the potential of the applicant for future broader impacts as indicated by personal experiences, professional experiences, educational experiences and future plans.
+Here is how I like to think of the review criteria, point by point.
+How would answering this research question change science (Intellectual Merit) or society (Broader Impacts)?
+Why should I fund you specifically, and not just this research question? What innovation do you specifically bring to the table?
+Is there a detailed plan? With built in measures of success?
+What are your qualifications?
+Can you actual carry out the needed research?
+At the end of each essay, you should be able to check off how you answered each point above for BOTH Intellectual Merit and Broader Impacts.
+}
+Homework:
+{
+Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then complete the tasks. Understand how application components and each item requested relate to the review criteria.
+}
+Proposed Field of Study: 
+{
+Pursuing NSF-supported STEM field: Division of Mathematical Sciences (DMS)
+Field of Study 1: DMS: Computational and Date-Enabled Sciences
+Field of Study 2: Comp/IS/Eng: Algorithms and Theoretical Foundations
+Field of Study 3: Comp/IS/Eng: Scientific Computing
+Field of Study 4:  Comp/IS/Eng: Bioinformatics and Bio-inspired Computing
+}
+
+Review Criteria Details:
+{
+WHAT WE LOOK FOR:
+Evidence of exceptional creativity, broad understanding of physical principles, and outstanding potential for innovative research is expected. 
+Applicants are screened for qualities we believe are essential ingredients of future professional accomplishment and/or leading indicators of future professional success. These include:
+Exceptional Intelligence and Creativity with particular emphasis on those aspects pertinent to technical endeavors.
+Excellent Technical Education evidenced not only by transcripts and reference reports from senior technical professionals, but also through an in-person, technical interview.
+Orientation and Commitment to the applications of the physical sciences as is typical of most applicants.
+Extraordinary Accomplishment in technical or related professional studies which may offset slightly lower academic records or add luster to outstanding ones.
+High moral and ethical values. 
+Leverage demonstration of the difference the award of the Hertz Fellowship is likely to make in the kind, quality, and/or personal creativity of the student's graduate research.
+The following conditions apply: 
+(1) Only applicants who propose to complete a program of graduate study leading to a PhD degree are eligible. Applications are accepted both from students in the final year of their bachelor’s program and from those who have already commenced graduate study. Please note that applications from students currently beyond their first year of graduate school are only considered favorably in cases where exceptional research leverage can be demonstrated. 
+(2) The proposed field of graduate study must be directed toward the understanding and solving of problems associated with contemporary human concern, using applications of knowledge from the physical and biological sciences, mathematics, engineering and computer science. 
+(3) Evidence of exceptional creativity, broad understanding of physical principles, and outstanding potential for innovative research is expected. 
+(4) Citizenship or Permanent Residency in the United States is required. If you are not a US citizen, we will ask to see proof of Application for Citizenship or your Permanent Resident card when you are interviewed. 
+(5) Eligible applicants must also morally commit to make their skills available to the United States in times of national emergency (see Moral Commitment section).
+We do not support students pursuing advanced professional degrees other than the PhD, such as enrollees in MD, LLD, public health, veterinary medicine, descriptive biology, nor MBA programs, although we will support the PhD portion of a joint MD/PhD study program. For a list of general fields of study in which Graduate Fellowships are offered by the Foundation, see Fields of Study.
+General Review Criteria
+Reviewers will be asked to evaluate all proposals against two criteria:
+Intellectual Merit: the potential to advance knowledge
+Broader Impacts: the potential to benefit society and contribute to the achievement of specific, desired societal outcomes.
+The following elements should be considered in the review for both criteria:
+What is the potential for the proposed activity to
+Advance knowledge and understanding within its own field or across different fields (Intellectual Merit); and
+Benefit society or advance desired societal outcomes (Broader Impacts)?
+To what extent do the proposed activities suggest and explore creative, original, or potentially transformative concepts?
+Is the plan for carrying out the proposed activities well-reasoned, well-organized, and based on a sound rationale? Does the plan incorporate a mechanism to assess success?
+How well qualified is the individual, team, or organization to conduct the proposed activities?
+Are there adequate resources available to the PI (either at the home organization or through collaborations) to carry out the proposed activities?
+Extra details on Broader Impacts: 
+Broader impacts may be accomplished through the research itself, through the activities that are directly related to specific research projects, or through activities that are supported by, but are complementary to, the project. NSF values the advancement of scientific knowledge and activities that contribute to achievement of societally relevant outcomes. Such outcomes include, but are not limited to: full participation of women, persons with disabilities, and underrepresented minorities in science, technology, engineering, and mathematics (STEM); improved STEM education and educator development at any level; increased public scientific literacy and public engagement with science and technology; improved well-being of individuals in society; development of a diverse, globally competitive STEM workforce; increased partnerships between academia, industry, and others; improved national security; increased economic competitiveness of the US; and enhanced infrastructure for research and education.
+Merit Review Criteria specific to the GRFP
+Intellectual Merit Criterion: the potential of the applicant to advance knowledge based on a holistic analysis of the complete application, including the Personal, Relevant Background, and Future Goals Statement, Graduate Research Plan Statement, strength of the academic record, description of previous research experience or publication/presentations, and references.
+Broader Impacts Criterion: the potential of the applicant for future broader impacts as indicated by personal experiences, professional experiences, educational experiences and future plans.
+Review Criteria: My Two Cents
+Here is how I like to think of the review criteria, point by point.
+How would answering this research question change science (Intellectual Merit) or society (Broader Impacts)?
+Why should I fund you specifically, and not just this research question? What innovation do you specifically bring to the table?
+Is there a detailed plan? With built in measures of success?
+What are your qualifications?
+Can you actual carry out the needed research?
+At the end of each essay, you should be able to check off how you answered each point above for BOTH Intellectual Merit and Broader Impacts.
+}
+
+Format-Sample:
+{
+Prompts:
+Essay One (word limit: 1,000 words)
+Tell us about your experiences as a New American. Whether as an immigrant yourself, or as a child of immigrants, how have your experiences as a New American informed and shaped who you are and your accomplishments? (?)
+For tips on writing your essays, please visit the PD Soros essay writing guide.
+Essay Two (word limit: 1,000 words)
+Tell us about your current and near-term career-related activities and goals, as well as why you decided to pursue the specific graduate program(s) and school(s) that you have. (?)
+For tips on writing your essays, please visit the PD Soros essay writing guide.
+
+Response: 
+Yahriel Salinas-Reyes —Page 1
+Yahriel Salinas-Reyes —Page 2 
+[Output 1]
+-------------------------------
+Yahriel Salinas-Reyes —Page 3
+Yahriel Salinas-Reyes —Page 4
+[Output 2]
+}
+
+
+Executive Roles:
+- Your role is to Act as the Applicant  to formulate responses for Yahriel Salinas-Reyes and his application. 
+- In addition to the role of First Author Yahriel Salinas-Reyes, you will be the chief editor and use feedback from the reviewer to strengthen the Response.
+- USE VERY HUMANISTIC LANGUAGE OF A FULL PROFESSOR OF AEROSPACE AND MECHANICAL ENGINEERING DOCTORATE OF NEUROSCIENCE AND MATHEMATICAL SCIENCES.
+- DO NOT USE ANY HEADINGS OR SUBHEADINGS AT ALL.
+- Introduce the writing with a strong opening about personal story of Yahriel that provides good branding and a sense of dedication to science of Yahriel
+- Foreshadow the broader impacts and utilize introductory "wrapping" statement about the next set of experiences of Yahriel.
+- Discuss the personal contributions of Yahriel and outcomes of the research BEFORE the gory details.
+- Use concrete/quantitative contributions of Yahriel.
+- Use concrete statement of skills and accomplishments of Yahriel.
+- Use more concrete "action verbs" telling about aptitude for graduate work.
+- Use personal link  to broader impacts to make Yahriel especially compelling.
+- Discuss current efforts in broader impacts of Yahriel.
+- Wrapping up: Broader career goals in research and broader impacts.
+- Discuss the significance of Personal Background of Yahriel Salinas-Reyes and do not spare details.
+- Discuss the significance of Relevant Background of Yahriel Salinas-Reyes and do not spare details.
+- Discuss the significance of Future Goals of Yahriel Salinas-Reyes and do not spare details.
+- Discuss the significance of Intellectual Merit and Broader Impacts of Yahriel Salinas-Reyes
+- Based  on the writings and topics, author a high-level response to include all the discussions, writings, and ideas you developed and/or that are available into the
+Executive Tasks: 
+- Use and mix all the provided information here: 
+as a central theme in the writing process.
+- Based on the writings and information provided integrate these materials here: 
+
+remix and expand the the topics in 3400 words in a high-level writing to include all the discussions, writings, and ideas you developed and/or that are available into the [Draft] for Yahriel Salinas-Reyes.
+[Draft] of Yahriel Salinas-Reyes for Fellowship Program do not spare details.
+- Use this Template and remix the Format-Sample to help you format your answer in 3-pages: 
+- Act as Chief Editor and Reviewer and review the General Review Criteria and Details, next Provide feedback and instructions to help strengthen this writing.
+- Make edits according to the feedback and instruction and the final response to display will consists of multiple parts and outputs as follows:
+- Give me only "Yahriel Salinas-Reyes —Page 1" and "Yahriel Salinas-Reyes —Page 2"in 1000 words exactly as an separate addition to "Yahriel Salinas-Reyes —Page 3" and "Yahriel Salinas-Reyes —Page 4".
+[Output 1]
+- Give me only "Yahriel Salinas-Reyes —Page 3" and "Yahriel Salinas-Reyes —Page 4"in 1000 words exactly as an separate addition to "Yahriel Salinas-Reyes —Page 1" and "Yahriel Salinas-Reyes —Page 2".
+[Output 2]
