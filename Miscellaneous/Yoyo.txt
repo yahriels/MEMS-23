@@ -1,17 +1,72 @@
-# Hertz Fellowship
-Brief Essays
-In the spaces below, please provide concise (i.e., in approximately 300 words) responses to each of the following questions. *You may use more than the allotted space for your response, and any additional text will be included in your application.
-Question 1: Choice of Field and Future Expectations 
-How did you choose your field and what are your primary expectations of your future career? If you are currently in your second or later year of graduate school, you should make your case here for why receiving a Fellowship would result in exceptional leverage in the kind and quality of your graduate work, including your ability to pursue promising new ideas. Please understand before continuing this application, that such a case will have to be very strong to be considered further, and that new Hertz Fellowships are very rarely granted to students currently in their second year of graduate study or beyond. 
-Question 1 Essay - How did you choose your field and what are your primary expectations of your future career? (word limit: 300 words)
-Question 2: Proposed Field of Study 
-Question 2 Essay - How does your proposed field of study and career constitute an application of the physical sciences or engineering? (word limit: 300 words)
-Question 3: Choice of Graduate School
-Question 3 Essay - What are the considerations involved in your choice of graduate school? (word limit: 300 words)
-Question 4: Chronological Synopsis
-Provide a concise summary, similar to a resume, in chronological order, with dates, recapitulating significant periods of technical and other creative activity since high school graduation. Omit activities only distantly related to your professional development. Include workshops, summer schools, a general description of all courses of study pursued (e.g. "3 quarters of Differential Equations") and degrees expected or awarded (dates, institutions, fields). Separate your undergraduate activities from your graduate activities (if/as applicable) with a single dashed line.
-Question 4 Essay - Chronological Synopsis 
+Y.Salinas-Reyes_Yahriel's_4A's:Aerospace,Anthropology,AppliedMath,Anatomy
+Y.Salinas-Reyes_Bleuler's_4A's:Alogia,Autism,Ambivalence,AffectBlunting
 
-Personal Essay
-Use this page to submit a personal essay that reveals your personal creativity beyond your research. You may choose to focus on activities since your graduation from high school, but these do not have to be related to the classroom or lab, to STEM or your future career—they can also be from your more informal pursuits and passions, e.g., your extracurricular and leisure activities. This is an opportunity for you to share your narrative with experiences that demonstrate your creativity, perseverance, curiosity and/or grit. You may use more than the allotted space for your response, and any additional text will be included in your application.
-Personal Essay Response
+
+Y.Salinas-Reyes_
+
+Everything C and Up
+
+Yahriel's_4A's_An_Independent_Field
+https://smallpdf.com/file#s=6ba38e22-19f5-4f9b-9918-f02d159c1a50
+https://drive.google.com/file/d/1iJQvh3MpC06BbNPonT_2D4Jtj4JdSaND/view
+
+--------------------------
+Next Make Website, Then Use document to Answer Prompts
+--------------------------
+
+++
+--
+++
+
+*LIBRARY,INCLUDES,RESOURCES**
+Author Credentials and Relevant Background, which consists of Academic, Professional, and Research Experience: Yahriel’s Intellectual Background: Aerospace and Aeronautical Engineering or Rocket Scientist with a Research and Development Experiences. These experiences are in the fields of: Data Science and Machine Learning; Modern Design of Aerospace and Propulsion Systems; Interfacial Phenomena and Chaos Theory; Nanotechnology and Materials Science-Engineering; Applied Quantum Mechanics and Nature Physics; Thermodynamic Modeling and Finite-Element-Analysis; Signals and Controls Systems Engineering; Expert in Robotics and Electrical Engineering; Computer Science and Software Engineering; Computer and Information Technology Systems, Experimental Systems Engineering; and Micro-electro-mechanical systems (MEMS).
+https://smallpdf.com/file#s=6ba38e22-19f5-4f9b-9918-f02d159c1a50 
+https://drive.google.com/file/d/1iJQvh3MpC06BbNPonT_2D4Jtj4JdSaND/view
+https://github.com/yahriels/yahriels/blob/87c1f6a8ffa9b619768ff6fb01d07ccf0a650e19/General_CV.pdf
+Supplemental and Other Information
+Scientific Publications
+Please upload copies of your most significant scientific publications/reports. If you have other supplemental documents you would like to have included as part of your application, upload them here as well, including documents containing illustrations or images.
+Scientific Publications
+The following files have been uploaded:
+10/28/2023 - The_Book_of_JOYBOY.pdf - 5 page(s)
+10/28/2023 - Writing_Sample_Draft.pdf - 5 page(s)
+10/28/2023 - Stanford Knight-Hennessy Scholars Application.pdf - 21 page(s)
+10/28/2023 - GRFP_Personal_Draft.pdf - 3 page(s)
+10/28/2023 - GRFP_Graduate Research Plan Statement.pdf - 2 page(s)
+10/28/2023 - General_CV.pdf - 5 page(s)
+10/28/2023 - Fulbright-National_Geographic_Affiliation_Letter.pdf - 1 page(s)
+10/28/2023 - Fulbright_Statement_of_Grant_Purpose_Draft.pdf - 2 page(s)P
+10/28/2023 - Fulbright_Personal_Statement_Draft.pdf - 1 page(s)P
+10/28/2023 - Y.Salinas-Reyes_Frontmatter.pdf - 3 page(s)
+10/28/2023 - Y.Salinas-Reyes_SizeEffectsinThinFilmPolymers4.pdf - 22 page(s)
+10/28/2023 - Y.Salinas-Reyes_Improvement_of_Method_Queues_by_Progress_of_the_Pi.pdf - 10 page(s)
+10/28/2023 - Y.Salinas-Reyes_LabonChip.pdf - 8 page(s)
+10/28/2023 - Y.Salinas-Reyes_Interim Report 2.pdf - 8 page(s)
+10/28/2023 - Y.Salinas-Reyes_RPOD_Phase-II_8-9-2023_v2.pdf - 41 page(s)P
+10/28/2023 - Y.Salinas-Reyes_RPOD - Progress status reporting for 07-27.pdf - 22 page(s)
+10/28/2023 - Y.Salinas-Reyes_EnergyHarvestin poster_V7_11_15_2021.pdf - 1 page(s)
+10/28/2023 - Y.Salinas-Reyes_Diversity Education-Central Region.pdf - 2 page(s)
+10/28/2023 - Y.Salinas-Reyes_DESIGNOFEXPERIMENTS.pdf - 18 page(s)
+10/28/2023 - Y.Salinas-Reyes_Composites-AnalyticalMonteCarloPZRModel.pdf - 13 page(s)P
+10/28/2023 - Y.Salinas-Reyes_Interim Report 1 (Draft 2).pdf - 11 page(s)
+10/28/2023 - Y.Salinas-Reyes_MEMS Project Draft  Feb 2022.pdf - 10 page(s)P
+10/28/2023 - Y.Salinas-Reyes_MS_Thesis_Final_Defense_Manuscript.pdf - 119 page(s)Pr
+10/28/2023 - Y.Salinas-Reyes_MS_Thesis_Final_Defense_Manuscript.pdf - 119 page(s)
+10/26/2023 - Conceptual Design Report Final Draft.pdf - 65 page(s)
+10/26/2023 - Design_Sign_Off.pdf - 35 page(s)
+10/26/2023 - EB_JUN_DRAFT_2022.pdf - 4 page(s)P
+10/26/2023 - Crafting A Manuscript MEMS.pdf - 32 page(s)
+10/26/2023 - Nano-Architected Composites (Summer '22).pdf - 35 page(s)
+Personal Page: https://github.com/yahriels
+Personal Repository: https://github.com/yahriels/yahriels/tree/181d70996b175c813c28770a361453c192fb5a06 
+Library and Data Sources:
+https://github.com/yahriels/yahriels/blob/c0d7f1579999dda246f3036e315f89f204f79680/Personal_Statement_Draft.pdf
+https://github.com/yahriels/yahriels/blob/main/Graduate%20Research%20Plan%20Statement%20Draft.pdf
+https://github.com/yahriels/yahriels/blob/181d70996b175c813c28770a361453c192fb5a06/Graduate%20Research%20Plan%20Statement.pdf
+https://github.com/yahriels/yahriels/blob/main/Writing_Sample_Draft.pdf 
+https://github.com/yahriels/yahriels/blob/main/Personal_Narrative_Concepts.pdf 
+https://github.com/yahriels/yahriels/blob/87c1f6a8ffa9b619768ff6fb01d07ccf0a650e19/Portfolio-Profile.pdf 
+https://github.com/yahriels/yahriels/blob/87c1f6a8ffa9b619768ff6fb01d07ccf0a650e19/General_CV.pdf
+https://github.com/yahriels/yahriels/blob/87c1f6a8ffa9b619768ff6fb01d07ccf0a650e19/Honors_Awards_Activities.pdf
+https://github.com/yahriels/yahriels/blob/87c1f6a8ffa9b619768ff6fb01d07ccf0a650e19/STEM_CV.pdf
+Resources:

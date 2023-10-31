@@ -1,12 +1,34 @@
-# Soros Fellowship 
+[ANCESTOR]
 
+MASTER:
+{
 
+}
 
-Essay One (word limit: 1,000 words)
-Tell us about your experiences as a New American. Whether as an immigrant yourself, or as a child of immigrants, how have your experiences as a New American informed and shaped who you are and your accomplishments? (?)
-For tips on writing your essays, please visit the PD Soros essay writing guide.
+ANCESTRY:
+{
+YAYA
+BOX
+ONEDRIVE
+ISU
+}
 
+YAYA:
+{
 
-Essay Two (word limit: 1,000 words)
-Tell us about your current and near-term career-related activities and goals, as well as why you decided to pursue the specific graduate program(s) and school(s) that you have. (?)
-For tips on writing your essays, please visit the PD Soros essay writing guide.
+}
+
+BOX:
+{
+
+}
+
+ONEDRIVE:
+{
+
+}
+
+ISU:
+{
+
+}
